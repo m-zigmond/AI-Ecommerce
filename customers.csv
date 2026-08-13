@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,age,gender,email,phone,signup_date,loyalty_tier,city,state,country,marketing_channel,marketing_opt_in
+924197,Margaret,Johnson,26.0,Female,margaret.johnson115@yahoo.com,232.318.1960,2024-11-29,Platinum,Colorado Springs,CO,USA,Email,True
+562958,Daniel,Wagner,56.0,Male,daniel.wagner760@gmail.com,+1-438-863-7940,2024-11-03,Bronze,Miami,FL,USA,Search,True
+381632,Gerald,Moore,32.0,Male,gerald.moore251@yahoo.com,916-315-5940,2024-02-02,Platinum,Tucson,AZ,USA,Search,False
+363028,William,Gray,47.0,Male,william.gray143@hotmail.com,695-993-1034x1316,2024-07-01,Bronze,Seattle,WA,USA,Referral,True
+176588,Mark,Diaz,36.0,Male,mark.diaz105@yahoo.com,(534)719-2832x764,2025-04-10,Bronze,Colorado Springs,CO,USA,Social Media,True
+360610,Sarah,Parsons,46.0,Female,sarah.parsons759@gmail.com,,2024-11-13,Bronze,Colorado Springs,CO,USA,Referral,True
+313802,Stephen,Day,35.0,Male,stephen.day90@gmail.com,423-988-4969x653,2024-05-12,Silver,Salem,OR,USA,Search,False
+938521,Ann,Williams,27.0,Female,ann.williams433@gmail.com,(626)291-6697,2024-05-18,Bronze,Durham,NC,USA,Social Media,True
+328815,Melanie,Wilson,24.0,Female,melanie.wilson31@hotmail.com,,2025-01-21,Silver,Philadelphia,PA,USA,Referral,False
+674253,Christian,Farmer,49.0,Male,christian.farmer224@hotmail.com,001-380-395-7015x43039,2025-04-25,Bronze,Phoenix,AZ,USA,Search,False
+547239,Monique,Cabrera,41.0,Female,monique.cabrera518@hotmail.com,001-822-778-2489x63834,2025-10-02,Bronze,Orlando,FL,USA,Search,True
+492904,Jessica,Holmes,41.0,Female,jessica.holmes28@gmail.com,531.250.9839,2024-06-02,Gold,Naperville,IL,USA,Direct,True
+140937,Benjamin,Welch,45.0,Male,benjamin.welch734@gmail.com,405-918-3473,2024-05-31,Silver,Orlando,FL,USA,Search,True
+512461,David,Kennedy,51.0,Male,david.kennedy226@yahoo.com,311.265.6670,2025-08-14,Bronze,Sacramento,CA,USA,Referral,True
+307937,Jennifer,Morgan,22.0,Female,jennifer.morgan604@gmail.com,933.587.2624,2024-10-29,Bronze,San Antonio,TX,USA,Direct,True
+187821,Shelly,Jones,45.0,Female,shelly.jones829@hotmail.com,908-501-3267,2025-02-01,Bronze,Worcester,MA,USA,Social Media,True
+736402,Michelle,Barrera,18.0,Non-binary,michelle.barrera778@gmail.com,(206)247-4687x2343,2025-02-20,Bronze,Houston,TX,USA,Email,True
+781209,Paul,Brown,45.0,Male,paul.brown715@hotmail.com,,2025-01-26,Bronze,Charlotte,NC,USA,Social Media,True
+720230,Lauren,Williams,50.0,Female,lauren.williams349@gmail.com,(799)385-4353x46247,2025-08-08,Bronze,Spokane,WA,USA,Search,True
+912391,Alexandra,Howell,18.0,Female,alexandra.howell160@hotmail.com,,2024-12-20,Bronze,Springfield,IL,USA,Referral,True
+118675,Dustin,Kim,43.0,Male,dustin.kim981@hotmail.com,001-449-680-8412x411,2024-10-07,Silver,Atlanta,GA,USA,Search,False
+302361,Diane,Clark,41.0,Female,diane.clark105@yahoo.com,248.274.0164,2025-08-02,Bronze,Dallas,TX,USA,Social Media,True
+853594,Felicia,Anderson,43.0,Female,felicia.anderson390@yahoo.com,(278)768-0112,2024-10-25,Silver,New York,NY,USA,Referral,True
+522606,Lauren,Hernandez,46.0,Female,lauren.hernandez368@gmail.com,8454053315,2025-01-14,Gold,Houston,TX,USA,Email,True
+690831,Tammy,Young,24.0,Female,tammy.young619@gmail.com,(360)825-6342,2025-07-05,Bronze,Pittsburgh,PA,USA,Email,False
+640867,Shane,Garrison,59.0,Male,shane.garrison827@gmail.com,775.643.3036,2024-08-23,Silver,Rochester,NY,USA,Email,True
+301108,Sean,Rasmussen,29.0,Male,sean.rasmussen748@yahoo.com,(386)885-0142x940,2024-10-13,Bronze,Phoenix,AZ,USA,Social Media,True
+165878,Gregory,Hartman,44.0,Male,gregory.hartman550@yahoo.com,+1-581-769-3406x088,2025-03-07,Bronze,Savannah,GA,USA,Email,False
+405144,Jessica,Rush,35.0,Female,jessica.rush997@yahoo.com,+1-551-848-4656x482,2024-11-30,Silver,Los Angeles,CA,USA,Referral,False
+461301,Maurice,Gray,,Male,maurice.gray81@hotmail.com,,2025-04-29,Platinum,San Antonio,TX,USA,Referral,False
+490754,Rachel,Lawson,34.0,Female,rachel.lawson301@yahoo.com,377.538.7214x895,2024-06-10,Gold,Scottsdale,AZ,USA,Social Media,True
+908857,Megan,Walker,33.0,Female,megan.walker634@gmail.com,(500)837-9176,2024-09-12,Gold,Allentown,PA,USA,Email,False
+426751,Johnny,Sanchez,50.0,Male,johnny.sanchez592@hotmail.com,001-901-463-2870x831,2024-10-06,Silver,Rochester,NY,USA,Search,True
+397949,Robert,Contreras,35.0,Male,robert.contreras722@hotmail.com,+1-557-698-6872x774,2024-07-02,Gold,Philadelphia,PA,USA,Social Media,True
+225295,Pamela,Boyd,28.0,Female,pamela.boyd47@hotmail.com,347.414.3455,2024-11-27,Bronze,Miami,FL,USA,Search,False
+664709,Chris,Reyes,49.0,Male,chris.reyes792@gmail.com,001-831-266-5876x036,2024-05-29,Bronze,San Francisco,CA,USA,Search,False
+544683,Scott,Cannon,44.0,Male,scott.cannon82@yahoo.com,805.946.6889x3734,2024-11-01,Silver,San Diego,CA,USA,Social Media,True
+102475,Allen,Rogers,47.0,Male,allen.rogers888@hotmail.com,(427)929-8069x9016,2024-03-12,Bronze,Boston,MA,USA,Social Media,True
+873824,Christopher,Green,27.0,Male,christopher.green390@yahoo.com,975.256.4641,2024-08-22,Bronze,Philadelphia,PA,USA,Email,True
+225284,Nicole,Williams,33.0,Female,nicole.williams465@yahoo.com,,2025-03-16,Silver,Tampa,FL,USA,Social Media,False
+733216,Kara,Wilson,52.0,Female,kara.wilson167@gmail.com,,2024-09-07,Silver,Dallas,TX,USA,Social Media,True
+823236,Jennifer,Espinoza,37.0,Female,jennifer.espinoza364@gmail.com,001-831-749-1905,2025-06-09,Silver,Dallas,TX,USA,Email,False
+781546,Andrea,Holland,33.0,Female,andrea.holland687@gmail.com,(971)865-7262x84987,2024-07-24,Silver,Buffalo,NY,USA,Referral,True
+142237,Samantha,Vargas,29.0,Female,samantha.vargas719@yahoo.com,714.273.7996,2024-12-01,Bronze,Rochester,NY,USA,Direct,True
+435649,Kathleen,Nguyen,36.0,Female,kathleen.nguyen664@yahoo.com,554.354.9480,2025-02-10,Bronze,Naperville,IL,USA,Search,True
+647640,David,Russell,26.0,Male,david.russell624@hotmail.com,001-937-777-0143x63495,2024-11-02,Bronze,Boston,MA,USA,Search,True
+750415,Jeffery,Reese,34.0,Male,jeffery.reese176@yahoo.com,(574)544-3135x182,2024-08-28,Silver,Scottsdale,AZ,USA,Search,True
+273148,Nancy,Hill,47.0,Female,nancy.hill747@hotmail.com,001-689-241-3435x24082,2025-08-15,Bronze,Durham,NC,USA,Search,True
+434982,Valerie,Tran,34.0,Female,valerie.tran168@hotmail.com,(771)409-4777,2024-10-10,Silver,San Francisco,CA,USA,Search,True
+642667,Vincent,King,64.0,Male,vincent.king389@yahoo.com,616-371-9022,2025-05-07,Bronze,Jacksonville,FL,USA,Email,True
+346901,Wendy,Wilson,37.0,Female,wendy.wilson948@yahoo.com,+1-299-338-6774x964,2025-03-11,Silver,Savannah,GA,USA,Email,True
+340644,Theresa,Clark,42.0,Female,theresa.clark702@gmail.com,912-632-8120x679,2024-05-18,Bronze,Buffalo,NY,USA,Social Media,True
+332361,Amanda,Roberts,53.0,Female,amanda.roberts864@yahoo.com,001-671-434-9361x832,2025-02-02,Silver,Boulder,CO,USA,Referral,True
+191947,Benjamin,Martin,45.0,Male,benjamin.martin235@yahoo.com,+1-994-371-7464x887,2024-08-24,Silver,Philadelphia,PA,USA,Direct,True
+374452,Kyle,Preston,40.0,Male,kyle.preston825@hotmail.com,994-601-3990x49027,2024-03-18,Gold,Detroit,MI,USA,Email,False
+976203,Catherine,Richards,31.0,Female,catherine.richards411@hotmail.com,817.256.5512x5674,2025-07-03,Bronze,Ann Arbor,MI,USA,Social Media,True
+911575,Jesse,Edwards,18.0,Male,jesse.edwards68@yahoo.com,768-908-7603,2024-09-05,Bronze,Savannah,GA,USA,Social Media,False
+120373,Mario,Wolf,62.0,Male,mario.wolf936@gmail.com,,2024-11-07,Gold,Seattle,WA,USA,Search,False
+627694,Anna,Gay,31.0,Female,anna.gay218@gmail.com,412.874.8467x737,2024-11-24,Silver,Dallas,TX,USA,Email,True
+285598,Connor,Greene,34.0,Male,connor.greene406@hotmail.com,(614)965-8404,2025-03-02,Gold,Sacramento,CA,USA,Social Media,True
+845842,Sharon,Griffin,44.0,Female,sharon.griffin147@yahoo.com,(858)286-7533x963,2024-02-19,Gold,San Antonio,TX,USA,Email,True
+106146,Evan,Kennedy,30.0,Male,evan.kennedy143@yahoo.com,(227)402-8951x7187,2024-07-30,Silver,Worcester,MA,USA,Referral,True
+184650,Jason,Pena,27.0,Male,jason.pena763@gmail.com,874-759-6158,2024-08-16,Gold,Detroit,MI,USA,Social Media,False
+127697,Lori,Clay,49.0,Female,lori.clay552@yahoo.com,+1-309-313-4316,2024-07-04,Bronze,Naperville,IL,USA,Email,False
+741733,Jill,Benson,44.0,Female,jill.benson765@gmail.com,8504455623,2024-08-25,Bronze,Pittsburgh,PA,USA,Social Media,True
+342503,Christopher,Miller,35.0,Male,christopher.miller439@yahoo.com,+1-637-492-3747x407,2025-01-30,Bronze,Durham,NC,USA,Search,True
+796365,Angela,Landry,48.0,Female,angela.landry371@hotmail.com,664-674-3671x3695,2025-05-08,Gold,Albany,NY,USA,Social Media,True
+523106,Alison,Greer,51.0,Female,alison.greer142@yahoo.com,609-409-7439x533,2024-02-20,Bronze,Boston,MA,USA,Referral,False
+363598,Lori,Berger,45.0,Female,lori.berger506@hotmail.com,7478095214,2025-01-04,Gold,Allentown,PA,USA,Social Media,True
+726144,Casey,Anderson,27.0,Female,casey.anderson774@hotmail.com,(488)542-4745x171,2025-06-03,Gold,Detroit,MI,USA,Referral,False
+918710,Scott,Ramsey,37.0,Male,scott.ramsey882@yahoo.com,+1-751-660-4817,2024-11-15,Bronze,Boston,MA,USA,Referral,True
+957570,Kevin,Carson,45.0,Male,kevin.carson157@yahoo.com,337-909-8593,2025-02-05,Silver,Los Angeles,CA,USA,Social Media,True
+695822,Theodore,Turner,41.0,Male,theodore.turner164@yahoo.com,420-804-7113,2024-09-22,Bronze,Grand Rapids,MI,USA,Social Media,False
+749920,Jody,Santiago,45.0,Female,,001-786-592-6179x640,2024-10-14,Bronze,San Antonio,TX,USA,Social Media,False
+875260,Jill,Sampson,42.0,Female,jill.sampson395@yahoo.com,958-350-6431,2025-03-22,Bronze,Columbus,OH,USA,Referral,True
+525664,Mary,May,43.0,Female,mary.may611@hotmail.com,5055329318,2025-07-06,Bronze,Savannah,GA,USA,Search,True
+638387,Robin,Hall,36.0,Female,robin.hall542@gmail.com,+1-704-522-8421x020,2024-04-06,Bronze,Tucson,AZ,USA,Email,False
+459569,Leah,Smith,39.0,Female,,3269811775,2025-04-21,Bronze,Rochester,NY,USA,Social Media,False
+437427,Kathy,Dougherty,26.0,Female,kathy.dougherty697@gmail.com,001-384-770-0766x1771,2024-05-29,Bronze,Los Angeles,CA,USA,Email,True
+521681,Lee,Jones,53.0,Male,lee.jones699@yahoo.com,+1-398-356-9847x896,2024-05-14,Silver,Los Angeles,CA,USA,Email,True
+790154,Sarah,Curtis,20.0,Female,sarah.curtis769@hotmail.com,001-736-673-6576x6156,2024-06-17,Silver,Colorado Springs,CO,USA,Email,False
+532741,Jacqueline,Hernandez,64.0,Female,,211-716-1528,2025-01-16,Gold,Boulder,CO,USA,Social Media,True
+688573,Michael,Jenkins,34.0,Male,michael.jenkins115@hotmail.com,001-360-749-4519x83273,2025-02-11,Silver,Tampa,FL,USA,Email,True
+941400,Ryan,Richardson,65.0,Male,ryan.richardson446@yahoo.com,001-636-289-9809,2025-03-17,Bronze,San Diego,CA,USA,Email,True
+665978,Catherine,Park,46.0,Female,catherine.park465@yahoo.com,850-922-9612x01836,2024-09-01,Gold,San Francisco,CA,USA,Referral,False
+219406,Glenda,Wood,31.0,Female,glenda.wood977@hotmail.com,999-810-2290x14767,2024-10-26,Silver,Denver,CO,USA,Social Media,True
+957297,Denise,Fischer,33.0,Female,denise.fischer897@gmail.com,(261)249-7840x369,2025-05-16,Bronze,Allentown,PA,USA,Referral,True
+211347,Dan,Dougherty,34.0,Male,dan.dougherty270@gmail.com,001-744-351-0762x26838,2024-05-29,Bronze,Naperville,IL,USA,Social Media,True
+693875,Jennifer,Harmon,33.0,Female,jennifer.harmon520@yahoo.com,6713596966,2024-11-22,Bronze,San Francisco,CA,USA,Email,True
+841384,Jennifer,Burch,32.0,Female,jennifer.burch892@gmail.com,+1-875-616-1369x681,2024-04-24,Gold,Charlotte,NC,USA,Referral,True
+482841,Patrick,Walker,30.0,Male,patrick.walker306@gmail.com,581-388-3552,2025-06-10,Silver,Cincinnati,OH,USA,Direct,False
+273308,Brianna,Gonzalez,34.0,Female,brianna.gonzalez520@hotmail.com,(712)777-9979,2024-09-13,Bronze,Allentown,PA,USA,Social Media,False
+423471,Chris,Jones,,Male,chris.jones157@yahoo.com,+1-744-690-5814x7700,2024-12-13,Bronze,Austin,TX,USA,Search,True
+832368,Billy,Lin,47.0,Male,billy.lin781@gmail.com,,2024-07-23,Bronze,San Diego,CA,USA,Email,True
+842595,Tina,Hayes,34.0,Female,tina.hayes553@yahoo.com,001-718-720-3778x892,2024-12-07,Gold,Austin,TX,USA,Direct,True
+110406,Tabitha,Hughes,33.0,Female,tabitha.hughes614@yahoo.com,+1-390-451-5186x44925,2025-08-15,Gold,New York,NY,USA,Referral,False
+136888,Thomas,Collins,18.0,Male,thomas.collins501@hotmail.com,001-862-791-4865x281,2025-06-25,Silver,Cleveland,OH,USA,Search,False
+126546,Albert,Parker,20.0,Male,albert.parker115@gmail.com,473-832-2141x88805,2024-12-20,Bronze,New York,NY,USA,Email,True
+866450,Brittany,White,23.0,Female,brittany.white900@hotmail.com,001-592-670-6537x94738,2024-09-02,Bronze,Dallas,TX,USA,Referral,False
+125280,Vincent,Mueller,56.0,Male,vincent.mueller246@gmail.com,(497)674-6886x239,2025-09-30,Silver,Cleveland,OH,USA,Email,True
+510757,Amy,Castillo,36.0,Female,amy.castillo247@yahoo.com,+1-418-814-1247,2025-02-07,Platinum,New York,NY,USA,Email,False
+284063,Anna,Lozano,30.0,Female,anna.lozano970@yahoo.com,(206)706-8536x153,2025-09-17,Bronze,Tacoma,WA,USA,Social Media,True
+278362,Timothy,Combs,21.0,Male,timothy.combs88@hotmail.com,522-404-7277x90104,2024-11-30,Bronze,Philadelphia,PA,USA,Direct,True
+862525,Kimberly,Acosta,,Female,kimberly.acosta836@hotmail.com,(214)534-1036x97117,2024-05-12,Bronze,Jacksonville,FL,USA,Referral,True
+440865,Michelle,Carter,48.0,Female,michelle.carter779@gmail.com,,2025-06-22,Gold,New York,NY,USA,Referral,True
+141729,Shane,Williams,32.0,Male,shane.williams785@yahoo.com,(740)751-5319x520,2025-05-30,Bronze,Athens,GA,USA,Search,True
+220192,Robert,Thompson,42.0,Male,robert.thompson132@hotmail.com,772.621.7043x030,2024-11-22,Bronze,Detroit,MI,USA,Email,False
+885202,Jose,Hays,39.0,Male,jose.hays970@hotmail.com,940.834.5054x1566,2024-04-30,Bronze,Albany,NY,USA,Social Media,True
+538136,Gina,Lopez,29.0,Female,gina.lopez170@hotmail.com,358.341.6169x2845,2024-11-17,Gold,Cincinnati,OH,USA,Email,True
+167072,Erin,Phillips,43.0,Female,erin.phillips541@yahoo.com,+1-362-875-7059x640,2024-11-12,Silver,Rochester,NY,USA,Search,False
+994983,Heidi,Owen,35.0,Female,heidi.owen988@hotmail.com,(702)797-0213,2024-07-31,Gold,San Antonio,TX,USA,Direct,True
+669175,Janet,Bradley,44.0,Female,janet.bradley952@hotmail.com,(775)857-1928,2024-08-13,Gold,Charlotte,NC,USA,Search,True
+392618,Emily,Ramirez,37.0,Female,,9275868144,2025-03-17,Bronze,Austin,TX,USA,Email,False
+489089,Zachary,Mitchell,40.0,Male,zachary.mitchell409@yahoo.com,712.317.2715,2024-07-23,Bronze,Savannah,GA,USA,Social Media,True
+527742,Krista,Roberts,18.0,Female,krista.roberts449@yahoo.com,,2024-08-07,Bronze,Rochester,NY,USA,Search,True
+890309,Isaac,Armstrong,46.0,Male,isaac.armstrong463@yahoo.com,+1-829-811-4678,2024-12-06,Silver,Durham,NC,USA,Email,True
+516875,Rodney,Jones,46.0,Male,rodney.jones254@yahoo.com,+1-217-378-5289x2268,2024-12-07,Bronze,New York,NY,USA,Search,False
+443269,Joseph,Torres,30.0,Male,joseph.torres66@gmail.com,335-484-1438x42498,2024-06-17,Bronze,San Francisco,CA,USA,Search,True
+707848,Kevin,Carpenter,52.0,Male,kevin.carpenter22@gmail.com,+1-299-959-0010x94396,2025-06-03,Silver,Ann Arbor,MI,USA,Referral,False
+221412,Stacy,Gardner,53.0,Female,stacy.gardner603@hotmail.com,573-764-7102x7677,2024-04-25,Bronze,San Francisco,CA,USA,Email,False
+388002,Lawrence,Edwards,45.0,Male,lawrence.edwards8@hotmail.com,556-425-8815x37147,2024-08-04,Bronze,Phoenix,AZ,USA,Direct,True
+112765,Brent,Roberts,51.0,Male,brent.roberts725@yahoo.com,+1-963-625-9532x787,2024-08-07,Silver,New York,NY,USA,Social Media,True
+343764,Jonathan,Davis,37.0,Male,jonathan.davis61@yahoo.com,273.339.5004x79748,2024-07-24,Silver,Tacoma,WA,USA,Direct,False
+464060,Jeffrey,Khan,37.0,Male,jeffrey.khan70@hotmail.com,(365)806-0983x584,2024-08-22,Bronze,San Francisco,CA,USA,Search,False
+910932,William,Duran,28.0,Non-binary,william.duran881@yahoo.com,+1-891-221-6558x523,2025-05-13,Bronze,Houston,TX,USA,Direct,True
+986803,Andrew,Taylor,32.0,Male,andrew.taylor73@yahoo.com,687.729.8259x5269,2025-01-13,Bronze,Rochester,NY,USA,Social Media,True
+357070,Jordan,Hicks,40.0,Male,jordan.hicks286@yahoo.com,001-994-670-5516x940,2024-11-30,Silver,Buffalo,NY,USA,Social Media,True
+823563,Tracy,Patton,39.0,Female,tracy.patton498@hotmail.com,001-430-597-2896,2025-08-07,Silver,Athens,GA,USA,Referral,True
+555576,Amanda,Vaughan,32.0,Female,amanda.vaughan553@gmail.com,907.256.2636,2025-08-24,Bronze,Austin,TX,USA,Email,True
+606263,Michele,Stone,43.0,Female,michele.stone741@hotmail.com,578-565-2785x85497,2024-04-08,Bronze,Austin,TX,USA,Email,True
+549427,Douglas,Evans,45.0,Male,douglas.evans249@yahoo.com,001-843-775-7584x41986,2025-05-22,Bronze,Jacksonville,FL,USA,Social Media,True
+503012,Troy,Ballard,51.0,Male,troy.ballard827@yahoo.com,6416574733,2025-07-13,Bronze,San Antonio,TX,USA,Email,True
+781581,Breanna,Gilbert,48.0,Female,breanna.gilbert195@hotmail.com,730.983.3016,2024-05-28,Bronze,Tucson,AZ,USA,Email,False
+354993,Brian,Townsend,29.0,Male,brian.townsend100@gmail.com,+1-226-377-3454,2024-12-22,Gold,Detroit,MI,USA,Email,True
+773663,Matthew,Hall,50.0,Male,matthew.hall442@hotmail.com,001-302-762-0672x4004,2024-11-12,Bronze,Athens,GA,USA,Social Media,False
+899690,Dominique,Hays,27.0,Female,dominique.hays434@hotmail.com,772.687.4315x27420,2024-04-13,Gold,Pittsburgh,PA,USA,Social Media,True
+183720,Laura,Todd,45.0,Female,laura.todd479@gmail.com,+1-566-285-1612x275,2024-05-09,Bronze,Tucson,AZ,USA,Search,True
+646843,Debbie,Young,31.0,Female,debbie.young56@yahoo.com,649-390-4530x17426,2024-12-05,Bronze,Naperville,IL,USA,Social Media,False
+161769,Margaret,Shepard,38.0,Female,margaret.shepard670@yahoo.com,+1-533-527-2795x687,2025-04-08,Bronze,Grand Rapids,MI,USA,Direct,True
+753483,Melanie,Larson,37.0,Female,melanie.larson101@gmail.com,478.751.9108x83982,2024-09-03,Silver,Tacoma,WA,USA,Search,True
+454854,Scott,Ramos,34.0,Male,scott.ramos413@hotmail.com,897.918.7072,2024-06-21,Bronze,Los Angeles,CA,USA,Direct,True
+496323,Kristy,Hansen,34.0,Female,kristy.hansen348@hotmail.com,206-340-3910x6518,2024-02-11,Bronze,Naperville,IL,USA,Social Media,True
+721692,William,Kennedy,37.0,Male,william.kennedy255@yahoo.com,(422)865-6766x18251,2025-08-07,Bronze,Denver,CO,USA,Search,False
+562418,Kendra,Luna,26.0,Female,kendra.luna195@gmail.com,5049786863,2024-07-31,Silver,Boston,MA,USA,Social Media,False
+166701,Gregory,Hill,39.0,Male,gregory.hill144@hotmail.com,001-210-569-0331x19079,2025-01-27,Silver,Jacksonville,FL,USA,Search,True
+919601,Patrick,Morales,39.0,Male,,+1-730-528-4395,2025-01-15,Bronze,Albany,NY,USA,Email,True
+648138,Eric,Thomas,45.0,Male,eric.thomas474@hotmail.com,836.744.0892x68705,2024-11-28,Bronze,Spokane,WA,USA,Social Media,True
+547839,Michael,Russell,30.0,Male,michael.russell896@yahoo.com,(428)873-3427x0866,2025-01-06,Bronze,Columbus,OH,USA,Search,True
+332762,David,Harris,23.0,Male,david.harris454@hotmail.com,275-318-3046,2025-07-22,Silver,Miami,FL,USA,Referral,True
+304794,Cole,Gill,26.0,Male,cole.gill101@hotmail.com,+1-583-873-5403x31739,2025-04-04,Bronze,Athens,GA,USA,Referral,True
+981087,Suzanne,Arnold,46.0,Female,suzanne.arnold668@yahoo.com,(578)754-4587x7175,2025-06-18,Bronze,Atlanta,GA,USA,Referral,True
+246201,Emily,Williams,18.0,Female,emily.williams993@gmail.com,001-820-548-9964x2353,2025-07-17,Bronze,Los Angeles,CA,USA,Email,False
+493092,Jonathan,Pena,42.0,Male,jonathan.pena949@hotmail.com,247-377-2522x87280,2024-11-05,Bronze,Houston,TX,USA,Direct,True
+192453,Theresa,Barnett,30.0,Female,theresa.barnett171@gmail.com,(923)212-0387x50997,2024-10-01,Bronze,Austin,TX,USA,Email,True
+176521,Adriana,Arnold,47.0,Female,adriana.arnold498@gmail.com,3843840862,2024-04-21,Silver,Spokane,WA,USA,Search,False
+381705,Joseph,Allen,47.0,Male,joseph.allen219@hotmail.com,245.346.1567x93341,2025-10-20,Silver,Sacramento,CA,USA,Search,False
+968744,Jared,Bennett,42.0,Male,jared.bennett925@yahoo.com,2025176591,2024-10-13,Bronze,Sacramento,CA,USA,Email,True
+431096,Christine,Parrish,28.0,Female,christine.parrish169@hotmail.com,440.814.8902x5039,2025-07-14,Bronze,Columbus,OH,USA,Referral,True
+731213,Tanya,Evans,38.0,Female,tanya.evans3@hotmail.com,796.285.6218,2024-02-28,Gold,Cleveland,OH,USA,Email,True
+394867,Brent,Hall,28.0,Male,brent.hall272@gmail.com,899-496-5047x73586,2024-05-13,Bronze,Raleigh,NC,USA,Direct,True
+724144,Michael,Guerrero,35.0,Male,michael.guerrero293@gmail.com,001-394-231-1426x26551,2024-10-27,Bronze,Raleigh,NC,USA,Email,True
+839473,Sherry,Wallace,36.0,Non-binary,sherry.wallace714@yahoo.com,821-326-7888,2024-04-23,Silver,Cleveland,OH,USA,Referral,True
+978433,Alexander,Gomez,55.0,Male,alexander.gomez803@gmail.com,+1-495-860-4661x839,2024-12-10,Bronze,Naperville,IL,USA,Social Media,False
+357833,Caroline,Adams,36.0,Female,caroline.adams159@yahoo.com,921.526.4647x1543,2024-10-04,Silver,Jacksonville,FL,USA,Email,True
+178476,Jimmy,Taylor,34.0,Male,jimmy.taylor304@gmail.com,(559)965-7569x2459,2025-01-12,Silver,Denver,CO,USA,Search,True
+265756,Ernest,Oconnell,18.0,Male,ernest.oconnell992@yahoo.com,,2024-04-14,Gold,Buffalo,NY,USA,Social Media,True
+921884,Tiffany,Murray,45.0,Female,tiffany.murray594@hotmail.com,674.416.7243,2025-01-12,Gold,Philadelphia,PA,USA,Search,True
+623248,Michelle,Mccormick,38.0,Female,michelle.mccormick556@gmail.com,397.396.8868x058,2024-07-07,Gold,Allentown,PA,USA,Referral,True
+415959,Patricia,Sandoval,33.0,Female,patricia.sandoval766@yahoo.com,(390)696-5610,2024-11-19,Bronze,Los Angeles,CA,USA,Search,False
+328532,Daniel,Burgess,38.0,Male,daniel.burgess59@hotmail.com,001-493-775-6798,2024-10-08,Silver,San Diego,CA,USA,Social Media,True
+520198,Yolanda,Webb,42.0,Female,yolanda.webb599@yahoo.com,(911)925-4573x87571,2024-05-26,Bronze,Phoenix,AZ,USA,Social Media,False
+771452,Francis,Evans,41.0,Male,francis.evans515@hotmail.com,405-712-3828,2024-05-31,Platinum,Jacksonville,FL,USA,Direct,False
+370507,Justin,Mullen,71.0,Male,justin.mullen162@gmail.com,(522)566-0937x9660,2025-03-19,Silver,Scottsdale,AZ,USA,Email,True
+959182,Diana,Padilla,34.0,Female,diana.padilla984@gmail.com,001-618-925-5371,2024-12-26,Bronze,Chicago,IL,USA,Email,True
+455782,Joseph,Fowler,47.0,Male,joseph.fowler83@hotmail.com,(396)491-5579x2499,2024-03-12,Silver,Naperville,IL,USA,Search,False
+350032,Erik,Allen,46.0,Male,erik.allen71@gmail.com,(852)886-6929,2025-02-24,Silver,Atlanta,GA,USA,Email,True
+638021,Charlene,Reid,48.0,Female,charlene.reid692@hotmail.com,+1-228-927-4225x7905,2024-12-14,Bronze,Los Angeles,CA,USA,Email,True
+335732,Breanna,Ochoa,30.0,Female,breanna.ochoa414@hotmail.com,676.576.7721x90340,2025-07-18,Silver,Denver,CO,USA,Search,True
+681619,Kimberly,Jackson,18.0,Female,kimberly.jackson965@yahoo.com,001-778-281-9148,2024-08-30,Silver,New York,NY,USA,Search,True
+684170,Peter,Alexander,38.0,Male,peter.alexander253@gmail.com,(713)840-7451x71339,2024-02-07,Silver,Durham,NC,USA,Social Media,False
+757216,Christopher,Taylor,38.0,Male,christopher.taylor609@gmail.com,709.658.4982,2025-05-06,Gold,Athens,GA,USA,Direct,True
+302426,Donna,Adams,18.0,Female,donna.adams635@hotmail.com,+1-412-660-4223x25367,2024-08-08,Gold,Los Angeles,CA,USA,Social Media,True
+193195,Mark,Brooks,31.0,Male,mark.brooks430@gmail.com,,2024-07-29,Bronze,Philadelphia,PA,USA,Social Media,True
+325640,Robert,Sanders,31.0,Male,robert.sanders958@yahoo.com,,2024-12-14,Bronze,San Diego,CA,USA,Email,True
+703269,Stephanie,Farmer,37.0,Female,stephanie.farmer210@gmail.com,,2024-04-21,Gold,Rochester,NY,USA,Email,False
+445958,Sonia,Turner,38.0,Female,sonia.turner245@yahoo.com,554-815-2064,2025-03-24,Silver,Dallas,TX,USA,Email,True
+750586,Matthew,Padilla,31.0,Male,matthew.padilla406@gmail.com,271.729.3870,2024-08-28,Bronze,Dallas,TX,USA,Search,False
+742673,Robert,Mcneil,34.0,Male,robert.mcneil688@yahoo.com,001-427-813-6111x554,2025-06-22,Silver,Austin,TX,USA,Social Media,False
+542389,Raymond,Mullins,51.0,Male,raymond.mullins469@gmail.com,+1-921-589-0927x5326,2024-09-01,Bronze,San Diego,CA,USA,Search,False
+766398,Brandon,Garcia,32.0,Male,brandon.garcia952@gmail.com,001-565-665-2341,2024-05-22,Bronze,Cleveland,OH,USA,Social Media,True
+246651,Richard,Vaughn,47.0,Male,richard.vaughn10@hotmail.com,538-998-3640x3761,2025-06-26,Silver,Los Angeles,CA,USA,Search,True
+847482,Mark,Jones,40.0,Male,mark.jones637@gmail.com,,2025-02-20,Bronze,Tucson,AZ,USA,Social Media,True
+848469,Deborah,Williams,21.0,Female,deborah.williams76@gmail.com,(384)686-6618x8924,2024-12-04,Silver,New York,NY,USA,Referral,True
+368754,Bob,Mccall,36.0,Male,bob.mccall219@gmail.com,+1-556-391-4630,2024-07-22,Silver,Tacoma,WA,USA,Social Media,False
+225009,Tim,Wilson,41.0,Male,tim.wilson272@hotmail.com,+1-604-421-0202x758,2024-07-23,Bronze,Allentown,PA,USA,Referral,False
+942532,Jacqueline,Brady,18.0,Female,,001-710-256-4814x9177,2025-07-30,Bronze,Austin,TX,USA,Search,False
+560657,Kathryn,Bradley,33.0,Female,kathryn.bradley903@yahoo.com,(241)591-3800,2025-09-30,Silver,Cleveland,OH,USA,Social Media,True
+882939,Angel,Cox,47.0,Male,angel.cox901@gmail.com,(608)363-5365,2024-05-21,Silver,Columbus,OH,USA,Referral,True
+960784,Kenneth,Wilson,30.0,Male,kenneth.wilson379@hotmail.com,6237806174,2024-11-17,Gold,Buffalo,NY,USA,Search,True
+883545,Brandon,Bryant,26.0,Male,brandon.bryant162@yahoo.com,949.549.3759,2024-04-18,Bronze,Eugene,OR,USA,Email,True
+626883,Morgan,Payne,21.0,Female,morgan.payne854@gmail.com,,2024-03-11,Bronze,Tucson,AZ,USA,Email,True
+239917,Sarah,Acosta,35.0,Female,sarah.acosta627@gmail.com,283.567.0241,2024-09-01,Bronze,Dallas,TX,USA,Direct,True
+376515,Steven,Meyer,35.0,Male,,(871)491-8261x990,2024-10-24,Silver,Miami,FL,USA,Email,True
+984678,David,Green,34.0,Male,david.green955@yahoo.com,(455)974-3132x9121,2024-10-31,Silver,San Diego,CA,USA,Social Media,True
+606888,Julie,Russell,30.0,Female,julie.russell107@hotmail.com,(537)747-4112x490,2024-11-12,Bronze,Naperville,IL,USA,Search,True
+794486,Brittany,Dawson,37.0,Female,brittany.dawson271@yahoo.com,(980)344-2067x8831,2025-02-16,Bronze,Austin,TX,USA,Social Media,True
+859857,Regina,Taylor,30.0,Female,regina.taylor912@gmail.com,6323365199,2025-02-26,Bronze,Chicago,IL,USA,Social Media,True
+145419,Alex,Brown,43.0,Male,alex.brown761@hotmail.com,921.251.0702x966,2024-06-15,Bronze,Houston,TX,USA,Email,True
+582393,James,Simmons,18.0,Male,james.simmons160@yahoo.com,524.647.2099,2024-08-16,Bronze,Cincinnati,OH,USA,Email,True
+608483,Jonathan,Andrade,38.0,Male,jonathan.andrade289@yahoo.com,2148626383,2025-02-28,Bronze,Rochester,NY,USA,Referral,True
+270269,Richard,Howard,50.0,Male,richard.howard735@hotmail.com,659.285.6420x5930,2025-04-01,Bronze,Austin,TX,USA,Social Media,False
+700634,Robert,Ruiz,50.0,Male,robert.ruiz209@yahoo.com,001-493-421-3348x03965,2025-04-17,Bronze,Spokane,WA,USA,Email,False
+723573,David,Stewart,61.0,Male,david.stewart518@hotmail.com,,2024-02-09,Gold,San Diego,CA,USA,Social Media,True
+891092,Katherine,Davis,45.0,Female,katherine.davis258@gmail.com,+1-730-287-0593x252,2025-03-29,Bronze,Savannah,GA,USA,Email,False
+805775,Alex,Willis,39.0,Male,alex.willis95@gmail.com,001-818-951-5691x54522,2024-11-03,Silver,Atlanta,GA,USA,Email,False
+891930,Marie,Thompson,40.0,Female,marie.thompson434@hotmail.com,001-895-239-2644x220,2025-08-21,Bronze,Durham,NC,USA,Search,False
+373069,Catherine,Flores,18.0,Female,catherine.flores46@hotmail.com,791.472.5135,2024-06-07,Bronze,Dallas,TX,USA,Referral,False
+142537,Mark,Mccarty,29.0,Male,mark.mccarty342@hotmail.com,+1-957-804-3315x41006,2024-06-11,Silver,Denver,CO,USA,Search,True
+715531,Tanya,Wilkerson,30.0,Non-binary,tanya.wilkerson653@yahoo.com,(258)761-7932x7104,2024-06-03,Bronze,Austin,TX,USA,Referral,True
+539820,Dean,Garcia,40.0,Male,dean.garcia166@yahoo.com,(962)218-1599,2024-09-10,Bronze,Springfield,IL,USA,Email,False
+960168,Jeffrey,Valdez,55.0,Male,jeffrey.valdez453@hotmail.com,(320)215-3368x84443,2024-06-16,Platinum,Scottsdale,AZ,USA,Search,True
+901983,James,Dunn,38.0,Male,james.dunn723@yahoo.com,(505)306-1497,2024-04-21,Silver,Cambridge,MA,USA,Social Media,True
+243838,Allison,Jackson,40.0,Female,allison.jackson575@yahoo.com,871-446-7741,2024-11-02,Bronze,Sacramento,CA,USA,Direct,False
+858198,Jacqueline,James,45.0,Female,jacqueline.james115@gmail.com,304.777.4349x021,2025-01-14,Silver,Houston,TX,USA,Search,False
+332057,Robert,Gutierrez,33.0,Male,robert.gutierrez968@hotmail.com,580.968.6879,2024-07-04,Bronze,Miami,FL,USA,Social Media,True
+359108,Elizabeth,Foster,33.0,Female,elizabeth.foster926@hotmail.com,4894899217,2024-11-20,Silver,Cambridge,MA,USA,Search,False
+806515,William,Stokes,18.0,Male,william.stokes559@gmail.com,3613632945,2024-12-13,Bronze,Atlanta,GA,USA,Search,True
+442950,Jasmine,Sanders,53.0,Female,jasmine.sanders855@yahoo.com,387-309-9861x622,2025-01-14,Gold,Philadelphia,PA,USA,Social Media,False
+310181,Kristine,Garcia,45.0,Female,kristine.garcia597@yahoo.com,+1-256-446-7997,2024-07-31,Gold,Cleveland,OH,USA,Social Media,True
+982329,Donald,Thomas,31.0,Male,donald.thomas441@hotmail.com,+1-660-965-3074x50544,2024-05-29,Bronze,San Francisco,CA,USA,Direct,True
+772288,Shannon,Cohen,39.0,Female,shannon.cohen43@gmail.com,(947)554-6913,2025-03-02,Silver,Columbus,OH,USA,Social Media,False
+197599,Susan,Russell,,Female,susan.russell374@yahoo.com,001-485-508-2148x62890,2025-11-24,Bronze,Spokane,WA,USA,Email,True
+594403,Shaun,Gonzalez,44.0,Male,shaun.gonzalez921@gmail.com,807.305.3457,2024-06-26,Bronze,Los Angeles,CA,USA,Direct,False
+958338,Melanie,Allen,32.0,Female,melanie.allen216@yahoo.com,+1-272-879-8552x414,2024-07-25,Bronze,Dallas,TX,USA,Search,False
+304849,Amber,Nash,42.0,Female,amber.nash683@gmail.com,433.446.8007,2024-10-22,Bronze,Buffalo,NY,USA,Social Media,True
+332189,Kyle,Smith,31.0,Male,kyle.smith363@yahoo.com,+1-844-366-5743x748,2025-03-14,Silver,Los Angeles,CA,USA,Email,True
+959122,Adrienne,Key,50.0,Female,adrienne.key906@yahoo.com,,2025-01-01,Silver,Athens,GA,USA,Search,True
+524726,Shannon,Green,18.0,Female,shannon.green998@hotmail.com,+1-643-628-3096x5207,2024-09-19,Platinum,Spokane,WA,USA,Social Media,True
+217105,Susan,Sullivan,60.0,Female,susan.sullivan768@hotmail.com,6994353875,2024-04-28,Silver,Cincinnati,OH,USA,Referral,True
+466940,Ryan,Walter,32.0,Male,ryan.walter948@gmail.com,817-724-8251x3534,2024-07-12,Bronze,Charlotte,NC,USA,Social Media,False
+286919,Jacob,Richards,44.0,Male,jacob.richards886@yahoo.com,370-899-9173,2025-02-10,Bronze,Atlanta,GA,USA,Email,True
+464366,Alyssa,Gutierrez,20.0,Non-binary,alyssa.gutierrez820@gmail.com,(335)969-7252,2024-07-30,Bronze,Austin,TX,USA,Search,True
+866257,Faith,Hatfield,50.0,Female,faith.hatfield903@yahoo.com,+1-800-874-3292x7129,2025-03-05,Bronze,San Francisco,CA,USA,Social Media,True
+918807,Jennifer,Sanford,44.0,Female,jennifer.sanford26@yahoo.com,2082350583,2025-06-02,Silver,Savannah,GA,USA,Search,False
+702347,Mark,Wright,47.0,Male,mark.wright755@hotmail.com,,2024-05-21,Bronze,Denver,CO,USA,Referral,False
+329091,Monica,Carlson,40.0,Female,monica.carlson802@yahoo.com,(425)375-3260x33230,2024-07-10,Bronze,Savannah,GA,USA,Direct,True
+718191,Holly,Santos,46.0,Female,holly.santos822@gmail.com,,2024-12-04,Platinum,Sacramento,CA,USA,Email,True
+563052,Kimberly,Wells,50.0,Female,kimberly.wells885@gmail.com,404.861.8499,2024-10-27,Bronze,Scottsdale,AZ,USA,Referral,True
+169397,Sandra,Garcia,43.0,Female,sandra.garcia831@hotmail.com,+1-714-811-7393x483,2025-03-29,Bronze,Grand Rapids,MI,USA,Referral,True
+539725,Elizabeth,Williams,40.0,Female,elizabeth.williams274@yahoo.com,975.430.0119,2025-04-16,Bronze,Chicago,IL,USA,Direct,True
+628668,Travis,Chan,36.0,Male,travis.chan807@gmail.com,001-714-737-4470x1204,2024-06-19,Gold,Orlando,FL,USA,Social Media,True
+304850,Jeffery,Wilson,58.0,Male,jeffery.wilson111@gmail.com,7227557941,2024-11-08,Bronze,Scottsdale,AZ,USA,Email,True
+716509,Clayton,Morales,21.0,Male,clayton.morales894@yahoo.com,967-962-1202x169,2024-09-08,Silver,Cleveland,OH,USA,Search,True
+620456,Catherine,James,57.0,Female,catherine.james880@yahoo.com,+1-202-577-1670x145,2024-06-18,Bronze,Houston,TX,USA,Search,True
+968810,William,Santiago,29.0,Male,william.santiago228@yahoo.com,,2025-01-01,Bronze,Cleveland,OH,USA,Email,True
+880473,Sarah,Booth,52.0,Female,sarah.booth837@gmail.com,001-975-935-4083x86631,2024-06-03,Bronze,Chicago,IL,USA,Email,True
+498067,Rebecca,West,46.0,Female,rebecca.west359@yahoo.com,351.670.1660x880,2024-04-11,Bronze,San Antonio,TX,USA,Direct,True
+898189,Steve,Hart,46.0,Male,steve.hart841@hotmail.com,+1-375-350-3758x99757,2024-08-21,Platinum,Dallas,TX,USA,Referral,False
+223412,Peter,Walker,38.0,Male,peter.walker229@yahoo.com,(648)585-1027x261,2024-09-18,Bronze,Austin,TX,USA,Search,True
+545952,Cody,Conrad,34.0,Male,cody.conrad676@yahoo.com,,2024-08-26,Bronze,Philadelphia,PA,USA,Search,True
+199234,Matthew,Blanchard,56.0,Male,matthew.blanchard409@gmail.com,308.808.6978x2922,2024-03-03,Silver,Austin,TX,USA,Social Media,False
+363227,Diane,Obrien,33.0,Non-binary,diane.obrien286@yahoo.com,666.793.4654x72269,2024-12-11,Gold,Raleigh,NC,USA,Social Media,True
+894429,Michelle,Walls,48.0,Female,michelle.walls991@hotmail.com,733.394.5228,2025-05-22,Bronze,Los Angeles,CA,USA,Email,True
+597505,Paige,Hart,44.0,Female,paige.hart360@hotmail.com,001-868-446-0810,2025-07-15,Gold,Savannah,GA,USA,Referral,False
+924543,Anthony,Brown,50.0,Male,anthony.brown696@yahoo.com,001-524-842-0438x05719,2025-10-08,Bronze,Jacksonville,FL,USA,Direct,True
+927372,David,Mueller,39.0,Male,david.mueller340@hotmail.com,506-766-5800x4397,2024-04-19,Bronze,Allentown,PA,USA,Search,True
+346238,Nicole,Payne,43.0,Female,nicole.payne119@hotmail.com,334.872.1228,2025-03-18,Bronze,New York,NY,USA,Social Media,True
+531175,Andrew,Ramirez,28.0,Male,andrew.ramirez183@yahoo.com,(429)740-5720,2024-03-03,Silver,Boulder,CO,USA,Search,True
+633917,Kyle,Ayala,42.0,Male,kyle.ayala40@hotmail.com,+1-347-498-5158x328,2024-11-06,Silver,San Diego,CA,USA,Social Media,True
+573360,Jason,Herrera,42.0,Male,jason.herrera611@gmail.com,(233)355-5439x878,2024-07-13,Bronze,Atlanta,GA,USA,Email,True
+102023,Michael,Griffin,45.0,Male,michael.griffin354@hotmail.com,+1-793-905-6164x840,2025-05-01,Bronze,Pittsburgh,PA,USA,Email,True
+630171,Katelyn,Phillips,32.0,Female,katelyn.phillips447@hotmail.com,,2024-10-23,Bronze,Tampa,FL,USA,Referral,True
+215883,Michael,Ayala,42.0,Male,michael.ayala395@hotmail.com,(413)686-1207x50110,2025-07-21,Silver,New York,NY,USA,Direct,False
+211282,Justin,Andrews,40.0,Male,justin.andrews195@gmail.com,366-276-6506x180,2024-08-30,Gold,Salem,OR,USA,Search,False
+938941,Michael,Jones,28.0,Male,michael.jones46@hotmail.com,244-991-4766,2025-01-29,Bronze,Rochester,NY,USA,Social Media,True
+145270,Christopher,Robinson,25.0,Male,christopher.robinson2@hotmail.com,(884)324-5088x2100,2024-05-18,Bronze,San Antonio,TX,USA,Search,True
+923809,Eric,Goodman,36.0,Male,eric.goodman373@hotmail.com,(436)282-2239x431,2025-08-08,Bronze,Orlando,FL,USA,Search,True
+351676,Samuel,Randolph,33.0,Male,,481.541.4139x755,2025-08-30,Platinum,Spokane,WA,USA,Referral,True
+309143,Ariel,Harvey,43.0,Female,ariel.harvey943@gmail.com,,2024-11-04,Silver,Athens,GA,USA,Social Media,True
+278450,David,Walker,41.0,Male,david.walker639@hotmail.com,+1-364-452-5777x5478,2024-12-27,Bronze,San Diego,CA,USA,Email,True
+716300,Maria,Miller,43.0,Female,maria.miller680@yahoo.com,(883)541-1080,2024-06-12,Gold,Cleveland,OH,USA,Social Media,False
+545759,Susan,Arnold,33.0,Female,susan.arnold738@hotmail.com,+1-972-356-3942,2024-07-17,Gold,Philadelphia,PA,USA,Social Media,True
+120400,Jennifer,Shaw,18.0,Female,jennifer.shaw520@hotmail.com,492.982.7229,2024-02-21,Bronze,Tampa,FL,USA,Social Media,False
+730556,Teresa,Williams,42.0,Female,teresa.williams683@yahoo.com,814.953.0385,2024-05-27,Silver,San Diego,CA,USA,Social Media,False
+945168,Tabitha,Keith,33.0,Female,tabitha.keith335@gmail.com,+1-351-684-4989x2665,2024-08-08,Bronze,San Antonio,TX,USA,Email,False
+943393,James,Solomon,25.0,Male,james.solomon714@hotmail.com,(655)577-9082x7231,2024-09-07,Silver,Spokane,WA,USA,Email,True
+510987,Chris,Moore,42.0,Male,chris.moore568@hotmail.com,001-813-265-1777x392,2025-03-24,Bronze,San Diego,CA,USA,Email,False
+113126,David,Anderson,48.0,Male,david.anderson197@hotmail.com,(428)809-2024,2024-04-05,Silver,Austin,TX,USA,Search,True
+992416,Kyle,Elliott,32.0,Male,kyle.elliott681@gmail.com,001-441-637-9772x3692,2024-09-17,Silver,Boulder,CO,USA,Social Media,False
+550379,Gary,Jennings,40.0,Non-binary,gary.jennings694@yahoo.com,+1-891-436-6210x388,2025-08-07,Bronze,Savannah,GA,USA,Search,False
+106403,Larry,Thompson,36.0,Male,larry.thompson925@hotmail.com,,2025-01-04,Gold,Tacoma,WA,USA,Social Media,True
+425661,Shelly,Wolfe,21.0,Female,shelly.wolfe631@yahoo.com,676.959.9162,2024-12-30,Bronze,Denver,CO,USA,Search,True
+142347,Pamela,Kent,40.0,Female,pamela.kent416@gmail.com,898-564-3009x8180,2024-06-28,Silver,San Diego,CA,USA,Search,False
+966334,Michael,Stewart,44.0,Male,,,2024-09-10,Platinum,Miami,FL,USA,Referral,True
+517213,Wendy,Sanders,44.0,Female,wendy.sanders216@gmail.com,(488)372-5887x44956,2024-09-09,Silver,Savannah,GA,USA,Search,True
+712216,Nicole,Griffin,60.0,Female,nicole.griffin805@hotmail.com,(413)886-5890,2024-03-04,Silver,Cleveland,OH,USA,Social Media,False
+865307,Vincent,Smith,34.0,Male,vincent.smith622@gmail.com,(379)261-1435,2024-09-24,Bronze,Scottsdale,AZ,USA,Email,False
+107171,Nathaniel,Arias,47.0,Male,nathaniel.arias330@yahoo.com,+1-584-290-2770x384,2025-03-04,Silver,Scottsdale,AZ,USA,Search,True
+206328,Richard,Dixon,46.0,Male,richard.dixon453@hotmail.com,692.805.3021,2024-05-30,Silver,Cleveland,OH,USA,Search,True
+327694,Harry,Foster,32.0,Male,harry.foster692@hotmail.com,780.711.8489,2025-08-15,Bronze,Raleigh,NC,USA,Search,True
+137895,Victor,Hill,40.0,Male,victor.hill524@hotmail.com,376.390.4268,2025-04-28,Bronze,Atlanta,GA,USA,Social Media,True
+950421,Kathy,Morgan,29.0,Female,kathy.morgan813@gmail.com,248.994.7697x35779,2025-03-09,Bronze,San Antonio,TX,USA,Search,True
+681576,Brian,Jones,41.0,Male,brian.jones675@hotmail.com,535.665.8804,2024-12-07,Silver,Austin,TX,USA,Email,True
+860481,Anna,Nunez,20.0,Female,anna.nunez291@yahoo.com,482-575-5394,2024-06-30,Bronze,Seattle,WA,USA,Email,False
+565165,Kathryn,Gonzalez,21.0,Female,kathryn.gonzalez96@hotmail.com,343.333.3952,2024-07-03,Silver,Dallas,TX,USA,Referral,False
+809235,Thomas,Lowe,39.0,Male,thomas.lowe689@hotmail.com,490.680.7595x7947,2024-04-25,Silver,Portland,OR,USA,Social Media,False
+859253,James,Christensen,45.0,Male,james.christensen231@gmail.com,4869780856,2024-05-27,Bronze,Dallas,TX,USA,Search,True
+631998,Vanessa,Wolfe,36.0,Female,vanessa.wolfe151@yahoo.com,500-636-9155x94284,2025-05-17,Silver,Chicago,IL,USA,Email,True
+326547,Kaitlin,Austin,52.0,Female,kaitlin.austin48@yahoo.com,(976)436-5564,2025-07-19,Bronze,New York,NY,USA,Search,True
+423125,Laura,Krause,23.0,Female,laura.krause487@hotmail.com,414.938.6632,2024-09-29,Gold,San Francisco,CA,USA,Referral,False
+724414,Renee,Thompson,55.0,Female,renee.thompson467@yahoo.com,(288)857-4489,2024-05-27,Gold,Los Angeles,CA,USA,Social Media,True
+679337,Annette,Martin,39.0,Female,annette.martin908@gmail.com,271-875-4558x845,2025-09-15,Gold,San Antonio,TX,USA,Email,False
+185131,Barbara,Dillon,51.0,Female,barbara.dillon590@hotmail.com,999.982.4558,2024-09-24,Silver,Scottsdale,AZ,USA,Email,True
+492774,Stacy,James,28.0,Female,stacy.james736@yahoo.com,522.756.9961x125,2024-05-10,Bronze,Buffalo,NY,USA,Email,False
+725418,Evan,Carter,49.0,Male,evan.carter507@yahoo.com,+1-464-575-9876x220,2025-01-13,Gold,Sacramento,CA,USA,Email,True
+573022,Matthew,Shepard,40.0,Male,matthew.shepard250@hotmail.com,001-313-326-1117x8006,2025-02-17,Gold,Tucson,AZ,USA,Social Media,False
+467418,Deborah,Moore,32.0,Female,deborah.moore672@hotmail.com,(743)934-7228x2005,2025-08-31,Silver,Charlotte,NC,USA,Search,True
+660209,John,Pitts,47.0,Male,john.pitts915@yahoo.com,+1-872-682-9979,2025-07-26,Bronze,Los Angeles,CA,USA,Direct,False
+616728,Terry,Olson,54.0,Male,terry.olson798@gmail.com,274-456-4240,2025-03-26,Bronze,Denver,CO,USA,Email,True
+231918,Gregg,Harrison,46.0,Male,gregg.harrison225@gmail.com,001-577-840-6493x085,2024-11-30,Bronze,Cleveland,OH,USA,Search,True
+656919,Sonia,Kim,29.0,Female,sonia.kim824@gmail.com,(666)634-1638,2025-04-08,Silver,Chicago,IL,USA,Referral,True
+831142,Mariah,Patel,50.0,Female,mariah.patel52@yahoo.com,(731)222-4179x74973,2024-09-22,Bronze,San Antonio,TX,USA,Email,False
+781385,Brittany,Booker,44.0,Female,,(414)242-7031,2024-05-31,Silver,San Francisco,CA,USA,Search,True
+101688,Johnny,Peterson,53.0,Male,johnny.peterson468@yahoo.com,457.505.1204x6187,2024-07-16,Bronze,Atlanta,GA,USA,Referral,True
+489801,Steven,Wright,25.0,Male,steven.wright821@yahoo.com,3135673037,2024-11-17,Platinum,Boston,MA,USA,Search,True
+733490,Kaitlyn,Maldonado,52.0,Female,kaitlyn.maldonado684@yahoo.com,,2025-03-03,Bronze,Albany,NY,USA,Referral,True
+886180,Mark,Jackson,30.0,Non-binary,mark.jackson973@yahoo.com,001-416-730-0979,2024-11-08,Silver,Rochester,NY,USA,Email,False
+215714,Kelli,Wright,46.0,Non-binary,kelli.wright628@yahoo.com,495-900-5281,2025-04-10,Bronze,Tucson,AZ,USA,Direct,True
+731612,Crystal,Holden,31.0,Female,crystal.holden914@hotmail.com,001-957-530-6524x07784,2025-05-19,Bronze,Durham,NC,USA,Social Media,True
+350668,Ashley,Stephens,26.0,Non-binary,ashley.stephens437@yahoo.com,001-774-998-2182x7448,2025-07-09,Bronze,Allentown,PA,USA,Direct,False
+278072,April,Little,43.0,Female,april.little919@yahoo.com,001-920-495-9351x8638,2025-10-29,Bronze,Sacramento,CA,USA,Search,False
+267090,Louis,Morris,29.0,Male,louis.morris762@hotmail.com,211-881-0220x31731,2024-06-17,Silver,Seattle,WA,USA,Direct,True
+839134,Matthew,Fox,25.0,Male,matthew.fox461@hotmail.com,001-940-353-9103,2024-07-20,Platinum,Cleveland,OH,USA,Search,True
+921341,Julie,Fowler,,Female,julie.fowler770@yahoo.com,+1-665-309-4801,2024-12-15,Bronze,Springfield,IL,USA,Search,True
+186222,Theresa,Yu,18.0,Female,theresa.yu861@gmail.com,438-863-3839,2024-06-05,Bronze,Detroit,MI,USA,Referral,False
+102106,Paul,Miranda,27.0,Male,paul.miranda785@hotmail.com,(976)712-2868x528,2024-07-04,Bronze,Rochester,NY,USA,Referral,True
+263426,Steven,Pierce,34.0,Male,steven.pierce497@yahoo.com,(766)959-3983x684,2024-09-30,Bronze,Tacoma,WA,USA,Referral,False
+312414,Jermaine,Sanders,29.0,Male,jermaine.sanders282@hotmail.com,5495082404,2024-05-07,Gold,Buffalo,NY,USA,Email,False
+812713,Savannah,Smith,38.0,Female,savannah.smith80@hotmail.com,488-689-9210x752,2025-04-02,Bronze,Savannah,GA,USA,Direct,True
+362339,Jacob,Perkins,43.0,Male,jacob.perkins293@gmail.com,341-696-9315x727,2024-09-13,Silver,Grand Rapids,MI,USA,Social Media,True
+342889,Amanda,Stokes,44.0,Female,amanda.stokes279@yahoo.com,,2024-08-02,Bronze,Columbus,OH,USA,Email,False
+748756,Amy,Warren,44.0,Female,amy.warren328@yahoo.com,+1-992-358-3206,2024-12-24,Gold,Worcester,MA,USA,Email,True
+738327,Courtney,Roberts,44.0,Female,courtney.roberts83@yahoo.com,(625)317-9086,2024-12-23,Silver,Cambridge,MA,USA,Email,True
+991109,Jennifer,Hamilton,18.0,Female,jennifer.hamilton155@hotmail.com,(527)583-7693,2024-09-02,Bronze,Seattle,WA,USA,Referral,True
+975413,Andrea,Frank,25.0,Female,andrea.frank393@yahoo.com,+1-491-716-6553x55904,2024-04-23,Gold,Buffalo,NY,USA,Referral,True
+783804,Lisa,Branch,54.0,Female,lisa.branch157@yahoo.com,+1-427-603-3521x103,2025-06-19,Silver,Tacoma,WA,USA,Social Media,False
+130676,Adam,Benson,47.0,Male,adam.benson66@gmail.com,977-405-3833x8848,2024-08-08,Silver,San Francisco,CA,USA,Email,True
+932942,Michael,Barnett,55.0,Male,michael.barnett418@yahoo.com,001-680-242-0439,2024-11-19,Bronze,Tucson,AZ,USA,Search,True
+703047,Julie,Landry,46.0,Female,julie.landry556@gmail.com,(345)410-4636x8157,2025-01-10,Silver,Tampa,FL,USA,Social Media,False
+599038,Christina,Rasmussen,29.0,Female,christina.rasmussen426@hotmail.com,001-700-738-4576x205,2024-06-22,Silver,Pittsburgh,PA,USA,Referral,True
+918904,Lori,Young,23.0,Female,lori.young212@hotmail.com,304-860-8432x562,2025-04-06,Bronze,Atlanta,GA,USA,Search,False
+313071,Joseph,Gregory,18.0,Male,joseph.gregory399@hotmail.com,+1-436-539-2649x57823,2025-05-04,Bronze,Tucson,AZ,USA,Social Media,True
+882208,Shari,Parker,18.0,Female,shari.parker878@hotmail.com,226.729.2518x81252,2025-07-29,Silver,Miami,FL,USA,Search,True
+206043,Sheryl,Gutierrez,37.0,Female,sheryl.gutierrez489@yahoo.com,574-523-1220x9949,2025-01-22,Silver,San Antonio,TX,USA,Email,False
+870797,David,Johnson,52.0,Male,david.johnson966@gmail.com,001-472-589-7526x772,2024-02-20,Bronze,Chicago,IL,USA,Email,True
+534660,Courtney,Ortiz,63.0,Female,courtney.ortiz306@gmail.com,563-833-1279x757,2024-10-02,Bronze,Tampa,FL,USA,Direct,True
+650695,Jennifer,Williams,43.0,Female,jennifer.williams874@hotmail.com,(256)599-9880x8177,2024-11-14,Bronze,Spokane,WA,USA,Referral,True
+829002,Joseph,Foster,36.0,Male,joseph.foster552@hotmail.com,6866803476,2024-10-25,Silver,Sacramento,CA,USA,Social Media,True
+464362,Julia,Henderson,25.0,Female,julia.henderson500@hotmail.com,4828771812,2024-06-26,Bronze,Orlando,FL,USA,Direct,True
+110773,Jason,Hayes,29.0,Male,jason.hayes280@gmail.com,793.371.4521x117,2024-05-30,Silver,Buffalo,NY,USA,Email,True
+985973,Kelly,Cruz,24.0,Female,kelly.cruz498@hotmail.com,+1-426-286-0259x222,2024-04-09,Gold,Pittsburgh,PA,USA,Referral,False
+965973,Jason,Collins,41.0,Male,jason.collins399@yahoo.com,221-923-0940x7778,2025-01-01,Bronze,New York,NY,USA,Direct,True
+844547,Cynthia,Chapman,50.0,Female,cynthia.chapman685@yahoo.com,567.219.9038x498,2024-04-22,Bronze,Cleveland,OH,USA,Email,True
+278745,Cody,Brown,45.0,Male,cody.brown742@yahoo.com,3208994510,2024-03-01,Gold,Albany,NY,USA,Email,True
+304408,Wendy,Martin,40.0,Female,wendy.martin861@yahoo.com,+1-799-882-7950x145,2024-11-09,Gold,San Francisco,CA,USA,Email,False
+389547,Samantha,Chang,36.0,Female,samantha.chang942@hotmail.com,547-521-4586,2025-06-23,Bronze,San Antonio,TX,USA,Email,True
+109347,Lisa,Rodriguez,44.0,Female,lisa.rodriguez638@hotmail.com,+1-781-479-4695x4899,2024-10-06,Platinum,Atlanta,GA,USA,Social Media,True
+907196,Lisa,Crawford,33.0,Female,lisa.crawford929@hotmail.com,+1-577-829-3430x1071,2024-11-27,Bronze,Houston,TX,USA,Social Media,False
+969466,Jason,Cook,34.0,Male,jason.cook607@hotmail.com,+1-330-734-4144x8850,2024-03-14,Gold,Cleveland,OH,USA,Direct,False
+991288,Glenn,Ramsey,18.0,Male,glenn.ramsey679@hotmail.com,9234557702,2024-06-21,Bronze,Durham,NC,USA,Social Media,False
+321588,Lori,Mcclain,28.0,Female,lori.mcclain86@hotmail.com,776-308-4958x80395,2024-12-11,Silver,Columbus,OH,USA,Referral,True
+487532,Tracy,Ramirez,36.0,Female,tracy.ramirez139@gmail.com,868-329-9629x14504,2025-02-13,Bronze,San Antonio,TX,USA,Search,True
+413424,Kathleen,Young,26.0,Female,kathleen.young187@yahoo.com,938-442-1503x1780,2025-06-10,Bronze,Jacksonville,FL,USA,Direct,True
+568764,Connor,Mclean,24.0,Male,connor.mclean267@hotmail.com,645.221.8230x76810,2025-08-18,Bronze,Miami,FL,USA,Referral,True
+177411,Melissa,Wheeler,50.0,Female,melissa.wheeler336@gmail.com,670-718-4094x35334,2024-06-26,Silver,Spokane,WA,USA,Email,False
+192141,Raymond,Lambert,23.0,Male,raymond.lambert466@yahoo.com,(524)710-9881,2024-05-06,Bronze,Austin,TX,USA,Social Media,False
+857288,Kirsten,Nelson,51.0,Female,kirsten.nelson346@hotmail.com,993-221-4958x7020,2024-06-13,Gold,Pittsburgh,PA,USA,Social Media,True
+405344,Brian,Brown,38.0,Male,brian.brown285@yahoo.com,(429)397-9545x3817,2025-07-17,Silver,Raleigh,NC,USA,Social Media,True
+394899,Robert,Gillespie,26.0,Male,robert.gillespie259@yahoo.com,674-777-3329,2025-03-12,Platinum,San Antonio,TX,USA,Social Media,True
+617300,Jenna,Lyons,34.0,Female,jenna.lyons482@hotmail.com,457-370-1715x77245,2024-06-24,Silver,Chicago,IL,USA,Email,True
+533753,Jared,Klein,18.0,Male,jared.klein768@gmail.com,,2024-05-26,Silver,Chicago,IL,USA,Email,False
+204417,Andrea,Clark,18.0,Female,andrea.clark54@hotmail.com,001-966-395-8321,2024-03-11,Bronze,Tacoma,WA,USA,Email,True
+813261,Leslie,Ford,55.0,Female,leslie.ford230@hotmail.com,872-746-1919,2024-11-03,Bronze,Pittsburgh,PA,USA,Social Media,True
+974651,Kathleen,Keller,40.0,Female,kathleen.keller71@gmail.com,829.902.2784,2024-05-31,Bronze,Cincinnati,OH,USA,Email,True
+183571,James,Maldonado,18.0,Non-binary,james.maldonado773@yahoo.com,294-765-1909x8624,2024-03-05,Silver,Miami,FL,USA,Email,True
+717805,Steven,Faulkner,42.0,Male,steven.faulkner973@gmail.com,001-885-814-0369x656,2025-09-15,Bronze,Phoenix,AZ,USA,Referral,False
+346636,Jeffrey,Clark,51.0,Male,jeffrey.clark205@gmail.com,223.486.5624x2201,2024-08-17,Bronze,Atlanta,GA,USA,Social Media,True
+449192,Nathan,Tucker,43.0,Male,nathan.tucker637@yahoo.com,(912)867-9692,2025-01-26,Silver,New York,NY,USA,Email,True
+258311,Kristen,Cole,18.0,Female,kristen.cole245@yahoo.com,626.890.9738,2024-03-21,Bronze,Austin,TX,USA,Social Media,True
+768390,Timothy,Johnston,38.0,Male,timothy.johnston485@gmail.com,6979519712,2025-06-17,Bronze,Phoenix,AZ,USA,Search,True
+918901,Kelly,Mills,45.0,Female,kelly.mills578@hotmail.com,737-218-9490,2024-06-08,Bronze,Miami,FL,USA,Referral,True
+496915,Julie,Hunt,37.0,Female,julie.hunt477@yahoo.com,001-656-654-4209,2024-06-17,Silver,Phoenix,AZ,USA,Search,True
+802344,Antonio,Kennedy,22.0,Male,antonio.kennedy786@gmail.com,001-304-690-4712,2024-11-07,Bronze,Tampa,FL,USA,Email,True
+662879,Darlene,Gilbert,55.0,Female,darlene.gilbert172@yahoo.com,,2024-08-20,Bronze,Worcester,MA,USA,Social Media,False
+576134,Robert,Atkins,40.0,Male,robert.atkins797@yahoo.com,429-527-6637,2024-11-25,Gold,Los Angeles,CA,USA,Search,True
+273042,Kenneth,Wilkinson,43.0,Male,,+1-841-902-7674x7836,2024-01-27,Silver,Phoenix,AZ,USA,Direct,True
+618056,Deborah,Moreno,44.0,Female,deborah.moreno111@yahoo.com,7478658018,2024-10-09,Gold,Ann Arbor,MI,USA,Social Media,False
+544582,Leroy,Pearson,57.0,Male,leroy.pearson952@yahoo.com,744-214-9673x93852,2025-03-11,Bronze,Los Angeles,CA,USA,Email,True
+912442,Michael,Decker,31.0,Male,michael.decker590@gmail.com,(218)517-5344x30091,2025-02-03,Silver,Dallas,TX,USA,Direct,True
+279414,Trevor,Little,22.0,Male,trevor.little930@hotmail.com,619-626-9212,2025-05-23,Silver,Tacoma,WA,USA,Social Media,True
+528226,Julie,Mayer,30.0,Female,julie.mayer407@hotmail.com,,2024-03-21,Gold,Worcester,MA,USA,Search,True
+245284,Tina,Baker,36.0,Female,tina.baker78@yahoo.com,873-596-2712,2025-02-07,Silver,Orlando,FL,USA,Email,False
+218381,Lisa,Rodriguez,25.0,Female,lisa.rodriguez105@yahoo.com,001-241-201-1947x072,2025-01-13,Gold,Austin,TX,USA,Email,True
+770348,Matthew,Adams,57.0,Male,matthew.adams792@hotmail.com,969-308-7766x18306,2024-05-09,Platinum,Scottsdale,AZ,USA,Direct,True
+861689,Latoya,Donovan,57.0,Female,latoya.donovan871@yahoo.com,246-801-5851x74328,2025-02-15,Platinum,Tucson,AZ,USA,Social Media,False
+262641,Mary,Evans,52.0,Female,mary.evans615@yahoo.com,,2024-12-25,Bronze,Grand Rapids,MI,USA,Social Media,True
+222328,John,Brown,30.0,Male,john.brown816@hotmail.com,+1-547-987-0050x5061,2024-03-25,Bronze,Columbus,OH,USA,Social Media,True
+985037,Todd,Berg,34.0,Male,todd.berg802@hotmail.com,,2025-03-25,Bronze,Cambridge,MA,USA,Email,True
+654523,Michael,Anderson,30.0,Male,michael.anderson356@gmail.com,,2025-03-24,Bronze,Miami,FL,USA,Social Media,True
+510893,Regina,Simmons,18.0,Female,regina.simmons678@hotmail.com,+1-365-619-8253x09251,2024-12-13,Bronze,Sacramento,CA,USA,Email,True
+132874,Donald,Perry,34.0,Non-binary,donald.perry71@hotmail.com,(282)973-9021x962,2024-10-07,Silver,San Diego,CA,USA,Search,True
+481010,Bobby,Smith,70.0,Male,bobby.smith13@gmail.com,001-594-467-2324x876,2024-10-11,Bronze,Rochester,NY,USA,Social Media,True
+434764,Leroy,Johnson,34.0,Male,leroy.johnson843@gmail.com,001-379-714-5608x331,2024-04-13,Bronze,Albany,NY,USA,Referral,False
+843873,Shari,Hatfield,33.0,Female,shari.hatfield109@hotmail.com,973.440.3127,2024-08-06,Bronze,Raleigh,NC,USA,Search,True
+408448,Caitlin,Livingston,26.0,Female,caitlin.livingston984@gmail.com,+1-454-436-4597x0108,2024-06-22,Bronze,Sacramento,CA,USA,Social Media,True
+545031,Rachel,Washington,28.0,Female,rachel.washington651@gmail.com,537-399-5635,2024-10-22,Silver,Spokane,WA,USA,Social Media,True
+553059,Erika,Garcia,53.0,Female,erika.garcia725@hotmail.com,(436)831-7970x62397,2024-03-19,Silver,Boulder,CO,USA,Search,True
+339643,James,Ellis,24.0,Male,,+1-954-835-2090x4217,2024-11-05,Bronze,Austin,TX,USA,Search,False
+977008,Carolyn,Cooper,19.0,Female,carolyn.cooper752@yahoo.com,+1-929-929-8316x873,2024-10-23,Gold,Chicago,IL,USA,Social Media,True
+266813,Diana,Blair,18.0,Female,,235.869.3929,2024-10-21,Gold,Durham,NC,USA,Direct,True
+531554,William,Williams,26.0,Male,william.williams631@yahoo.com,001-280-868-6717x7318,2025-05-16,Gold,Tampa,FL,USA,Referral,False
+846270,Tiffany,Anderson,38.0,Female,tiffany.anderson794@yahoo.com,210.974.2799,2024-09-21,Silver,Athens,GA,USA,Search,False
+792623,John,Taylor,68.0,Male,john.taylor477@hotmail.com,(525)370-1658x0464,2025-04-11,Silver,Spokane,WA,USA,Email,True
+939566,Lisa,Rogers,49.0,Female,lisa.rogers846@gmail.com,550.416.5790x55281,2024-05-24,Bronze,Savannah,GA,USA,Direct,False
+267355,Vicki,Allen,29.0,Female,vicki.allen331@gmail.com,+1-779-733-5548x6401,2025-03-22,Bronze,San Diego,CA,USA,Social Media,False
+194595,Jesse,Mason,38.0,Male,jesse.mason851@gmail.com,488.647.9513x7116,2024-08-09,Bronze,Boston,MA,USA,Email,False
+251434,Tyler,Jones,31.0,Male,tyler.jones286@gmail.com,912-772-3804x682,2024-07-17,Bronze,Los Angeles,CA,USA,Referral,False
+266711,Robert,Rojas,33.0,Non-binary,robert.rojas250@gmail.com,931-903-8569x5579,2025-03-23,Bronze,Savannah,GA,USA,Search,False
+785346,Elizabeth,Anderson,49.0,Female,elizabeth.anderson584@yahoo.com,(643)975-4025,2025-01-18,Silver,Raleigh,NC,USA,Social Media,True
+298585,Tyler,Montgomery,38.0,Male,tyler.montgomery345@gmail.com,001-484-922-2231x059,2025-02-04,Bronze,Jacksonville,FL,USA,Email,False
+447566,Debbie,Lopez,26.0,Female,debbie.lopez507@hotmail.com,001-205-852-5782x841,2024-02-22,Bronze,Denver,CO,USA,Email,False
+454569,Timothy,Mack,58.0,Male,timothy.mack187@yahoo.com,320-988-5474x92975,2024-02-27,Bronze,San Diego,CA,USA,Email,True
+791592,Steven,Taylor,44.0,Male,steven.taylor218@hotmail.com,740-269-3751,2024-07-11,Gold,Cleveland,OH,USA,Email,True
+865712,Lisa,Lee,18.0,Female,lisa.lee817@hotmail.com,843.501.8718,2024-02-15,Bronze,Cleveland,OH,USA,Email,True
+152017,Katherine,Morrison,23.0,Female,katherine.morrison349@hotmail.com,6567265650,2025-06-30,Bronze,Spokane,WA,USA,Direct,True
+607556,Gregory,Madden,31.0,Male,gregory.madden902@hotmail.com,437-367-4266,2025-04-16,Bronze,Pittsburgh,PA,USA,Social Media,True
+855845,Douglas,Turner,44.0,Non-binary,douglas.turner719@hotmail.com,519-461-0646x28792,2025-06-07,Bronze,Tacoma,WA,USA,Referral,False
+106059,Ronnie,Roberts,18.0,Male,ronnie.roberts570@yahoo.com,,2025-07-12,Bronze,San Diego,CA,USA,Social Media,False
+553606,Deborah,Blanchard,20.0,Female,deborah.blanchard530@hotmail.com,,2025-07-06,Bronze,Atlanta,GA,USA,Referral,False
+149433,Keith,Oneill,18.0,Male,keith.oneill88@hotmail.com,+1-471-758-9042x90257,2025-04-22,Silver,Denver,CO,USA,Direct,True
+150555,Christopher,Nelson,45.0,Male,christopher.nelson738@yahoo.com,+1-750-744-8183x2192,2025-06-13,Bronze,Columbus,OH,USA,Direct,True
+369304,Samantha,Cohen,25.0,Female,samantha.cohen501@yahoo.com,,2025-02-18,Silver,Sacramento,CA,USA,Direct,False
+531846,Gina,Bartlett,33.0,Female,gina.bartlett777@gmail.com,328.833.8988,2024-08-11,Bronze,Naperville,IL,USA,Search,True
+276171,Julia,Jones,30.0,Female,julia.jones708@gmail.com,7754452798,2024-05-02,Bronze,Orlando,FL,USA,Email,True
+492493,Michelle,Johnson,33.0,Female,michelle.johnson662@gmail.com,822.334.2321,2024-06-14,Bronze,Worcester,MA,USA,Search,False
+549361,Angela,Hampton,51.0,Female,angela.hampton503@yahoo.com,6312089071,2024-12-04,Bronze,Grand Rapids,MI,USA,Social Media,True
+596587,Andrea,Contreras,36.0,Female,andrea.contreras812@gmail.com,493-693-2501,2024-10-12,Bronze,Raleigh,NC,USA,Search,False
+737012,Travis,Bailey,35.0,Male,travis.bailey96@gmail.com,293.389.1190x83342,2025-01-14,Bronze,Seattle,WA,USA,Email,True
+854133,Tammy,Knapp,32.0,Female,tammy.knapp227@hotmail.com,859.327.1256x6383,2025-08-29,Bronze,Spokane,WA,USA,Email,False
+742541,Pam,Edwards,46.0,Female,pam.edwards709@yahoo.com,782-975-4801,2024-08-24,Silver,Jacksonville,FL,USA,Social Media,True
+440795,Brian,Campbell,25.0,Male,brian.campbell314@hotmail.com,001-247-938-6463x1752,2025-04-05,Gold,Austin,TX,USA,Social Media,True
+784246,Megan,Sanders,31.0,Female,megan.sanders596@hotmail.com,+1-811-326-6912x15353,2024-07-09,Bronze,Cincinnati,OH,USA,Social Media,False
+756916,David,Coleman,37.0,Male,david.coleman485@yahoo.com,499-946-5796x784,2024-11-17,Bronze,Tampa,FL,USA,Email,True
+385804,Brian,King,36.0,Male,brian.king544@yahoo.com,820.710.1702,2025-02-11,Bronze,Salem,OR,USA,Email,False
+767655,Brittany,Howell,43.0,Female,brittany.howell436@gmail.com,001-218-277-3477x84858,2025-04-13,Silver,Dallas,TX,USA,Email,False
+481874,Wanda,Beard,54.0,Female,wanda.beard564@gmail.com,(875)467-7002x8427,2025-01-18,Silver,Scottsdale,AZ,USA,Search,True
+918605,Erik,Price,41.0,Male,erik.price361@gmail.com,001-278-889-7782,2025-02-20,Gold,Dallas,TX,USA,Email,False
+255538,Dennis,Garza,29.0,Male,dennis.garza465@yahoo.com,+1-254-750-0902x559,2024-08-03,Silver,Durham,NC,USA,Social Media,True
+764417,James,Patterson,18.0,Male,james.patterson314@yahoo.com,(250)733-3491x14152,2025-06-19,Bronze,Tampa,FL,USA,Search,True
+270886,Andrew,Barrett,52.0,Male,andrew.barrett237@yahoo.com,001-886-840-7905,2024-09-03,Platinum,Tampa,FL,USA,Direct,True
+508476,Frank,Davis,39.0,Male,frank.davis739@yahoo.com,735-878-5294,2024-10-17,Platinum,Seattle,WA,USA,Email,True
+385089,Dakota,Reid,35.0,Male,dakota.reid324@gmail.com,,2024-06-23,Silver,San Francisco,CA,USA,Search,True
+289061,Leslie,Nelson,32.0,Female,leslie.nelson761@hotmail.com,876.635.1484x68536,2024-10-14,Bronze,Los Angeles,CA,USA,Email,False
+465595,Lori,Chavez,18.0,Female,lori.chavez974@hotmail.com,(808)229-7374,2024-02-29,Gold,Colorado Springs,CO,USA,Search,False
+951149,Kelly,Diaz,60.0,Female,kelly.diaz197@gmail.com,624.666.5136,2025-03-30,Bronze,Orlando,FL,USA,Email,True
+478894,Maria,Scott,26.0,Female,maria.scott757@hotmail.com,963.912.3034,2025-07-13,Platinum,Denver,CO,USA,Social Media,True
+896180,Kristin,Graham,50.0,Female,kristin.graham284@hotmail.com,4322420448,2024-10-20,Gold,Albany,NY,USA,Email,True
+609870,Victor,Tucker,39.0,Male,victor.tucker103@gmail.com,,2025-01-20,Silver,Dallas,TX,USA,Referral,False
+267626,David,Duncan,31.0,Male,david.duncan304@hotmail.com,389-784-7139,2024-09-27,Silver,Detroit,MI,USA,Social Media,False
+778853,Erin,Silva,24.0,Female,erin.silva370@yahoo.com,001-236-932-1234x7649,2024-11-12,Bronze,Phoenix,AZ,USA,Search,True
+957476,Joseph,Lyons,37.0,Male,joseph.lyons310@gmail.com,286-573-4257x54090,2025-01-16,Silver,Boston,MA,USA,Email,True
+409228,Dawn,Cruz,36.0,Female,dawn.cruz726@hotmail.com,001-551-683-7606x441,2024-06-09,Bronze,Atlanta,GA,USA,Direct,True
+666258,Daniel,Zamora,51.0,Male,daniel.zamora281@yahoo.com,,2025-05-17,Gold,Austin,TX,USA,Search,False
+756144,Guy,Guzman,43.0,Male,guy.guzman998@hotmail.com,,2024-04-13,Silver,Phoenix,AZ,USA,Social Media,False
+127073,Christopher,Black,50.0,Male,christopher.black567@hotmail.com,001-329-865-7724x29543,2025-05-07,Gold,Los Angeles,CA,USA,Email,True
+869221,Jacob,Long,50.0,Male,jacob.long715@yahoo.com,001-530-608-9317,2024-05-11,Bronze,Spokane,WA,USA,Referral,True
+156059,Meredith,Jackson,27.0,Female,meredith.jackson654@yahoo.com,+1-869-942-1529x108,2024-07-20,Silver,Portland,OR,USA,Email,False
+194184,Samantha,Snyder,44.0,Female,samantha.snyder106@gmail.com,001-633-544-7626x393,2025-04-27,Gold,Jacksonville,FL,USA,Email,False
+800558,Jennifer,Ortiz,42.0,Female,jennifer.ortiz588@gmail.com,9443397359,2025-06-15,Silver,Houston,TX,USA,Referral,True
+237268,Alexandra,Anderson,28.0,Female,alexandra.anderson481@yahoo.com,001-763-566-9411x800,2024-08-25,Silver,Tampa,FL,USA,Search,True
+289311,John,Gomez,34.0,Male,john.gomez452@hotmail.com,+1-490-604-8964x65280,2024-08-12,Silver,Eugene,OR,USA,Email,True
+353168,Christopher,Vasquez,46.0,Male,christopher.vasquez189@yahoo.com,921.658.6241x502,2024-09-06,Bronze,Dallas,TX,USA,Email,True
+642047,Nicole,Howe,42.0,Female,nicole.howe259@yahoo.com,294-585-6257x287,2025-01-02,Bronze,Phoenix,AZ,USA,Email,True
+210200,Charles,Hall,60.0,Male,charles.hall117@gmail.com,942.376.1707x5877,2025-01-14,Bronze,Worcester,MA,USA,Referral,True
+124876,Ryan,Camacho,30.0,Male,ryan.camacho411@gmail.com,(213)442-2849x939,2025-03-28,Gold,Seattle,WA,USA,Email,True
+294470,Jason,Jones,,Male,jason.jones76@yahoo.com,+1-915-904-1659x15201,2024-08-09,Bronze,Ann Arbor,MI,USA,Search,False
+233335,Jesse,Moses,25.0,Male,jesse.moses156@hotmail.com,+1-305-809-7592x30450,2024-09-27,Gold,New York,NY,USA,Email,False
+874299,Anna,Scott,24.0,Female,anna.scott831@gmail.com,001-661-403-2664x21476,2024-09-27,Bronze,Columbus,OH,USA,Email,True
+589266,Ian,Davis,28.0,Male,ian.davis88@yahoo.com,437.876.7499x61659,2025-04-23,Silver,Rochester,NY,USA,Search,False
+663869,Mark,Davis,39.0,Male,mark.davis122@hotmail.com,473-427-8814x76174,2024-10-27,Bronze,San Francisco,CA,USA,Email,False
+173743,Melinda,Evans,33.0,Female,melinda.evans783@gmail.com,964.690.8108x18661,2024-07-02,Silver,Tacoma,WA,USA,Direct,True
+627699,Henry,Richards,51.0,Male,henry.richards621@hotmail.com,6177226016,2024-06-14,Bronze,Tucson,AZ,USA,Email,False
+259486,Kevin,Gibson,32.0,Male,kevin.gibson795@hotmail.com,294.252.3219x416,2024-08-23,Bronze,San Francisco,CA,USA,Search,False
+912674,James,Smith,22.0,Male,james.smith462@hotmail.com,476.297.4995x6412,2024-11-28,Bronze,Jacksonville,FL,USA,Email,False
+142263,Connor,Cabrera,38.0,Male,connor.cabrera305@hotmail.com,303.672.3683,2024-06-03,Bronze,Sacramento,CA,USA,Social Media,False
+920879,Randy,Hernandez,32.0,Male,randy.hernandez440@yahoo.com,5125277707,2024-07-30,Bronze,Cambridge,MA,USA,Social Media,True
+215560,Elizabeth,Gallegos,39.0,Female,elizabeth.gallegos583@yahoo.com,6502166799,2024-05-26,Bronze,San Diego,CA,USA,Email,True
+846102,Katherine,Tucker,56.0,Female,katherine.tucker62@hotmail.com,001-897-930-8069x5814,2024-11-27,Gold,Cincinnati,OH,USA,Email,False
+933473,Bruce,Dean,37.0,Male,bruce.dean984@hotmail.com,(576)702-4375x738,2025-09-03,Bronze,Cambridge,MA,USA,Social Media,True
+126133,Thomas,Castaneda,35.0,Male,thomas.castaneda102@hotmail.com,+1-472-446-6572x93417,2025-01-22,Bronze,Cincinnati,OH,USA,Referral,True
+921402,Christina,Obrien,53.0,Female,christina.obrien641@gmail.com,(274)333-8005x45228,2025-07-26,Bronze,Atlanta,GA,USA,Referral,False
+620065,George,Wilson,29.0,Male,george.wilson271@gmail.com,683-474-5508,2024-08-23,Silver,Philadelphia,PA,USA,Email,True
+171166,Sarah,Russo,48.0,Female,sarah.russo84@hotmail.com,+1-410-377-1199x18081,2025-07-06,Bronze,Durham,NC,USA,Referral,True
+666122,Shelby,Bartlett,40.0,Female,shelby.bartlett246@gmail.com,001-847-287-1255x2137,2025-01-27,Bronze,Boston,MA,USA,Direct,True
+812521,David,Lamb,58.0,Male,david.lamb566@yahoo.com,482-814-5653x2863,2024-02-05,Bronze,Austin,TX,USA,Referral,False
+742901,Jennifer,Ortiz,39.0,Female,jennifer.ortiz161@yahoo.com,250.872.0811x55626,2025-05-17,Bronze,Detroit,MI,USA,Email,True
+290240,Olivia,Keller,29.0,Female,olivia.keller419@hotmail.com,(790)784-6684,2025-08-15,Gold,Atlanta,GA,USA,Social Media,True
+961608,Aimee,Ramirez,,Female,aimee.ramirez706@hotmail.com,+1-626-373-8997x563,2025-04-25,Silver,Spokane,WA,USA,Referral,True
+209934,Andrew,Cook,19.0,Male,andrew.cook482@hotmail.com,001-228-284-3188x4852,2025-02-13,Bronze,Cincinnati,OH,USA,Email,True
+776024,Steve,Fernandez,18.0,Male,steve.fernandez34@yahoo.com,746.381.0548,2025-01-11,Gold,San Diego,CA,USA,Social Media,True
+232124,Anthony,Curtis,46.0,Male,anthony.curtis296@gmail.com,749.607.5399x893,2024-10-14,Gold,Chicago,IL,USA,Email,True
+659864,Dustin,Glover,39.0,Male,dustin.glover720@hotmail.com,001-526-783-1589,2025-06-14,Bronze,Rochester,NY,USA,Email,False
+104547,Jesse,Thomas,37.0,Male,jesse.thomas73@yahoo.com,(811)606-2737x15869,2025-07-11,Gold,Sacramento,CA,USA,Email,True
+629083,Kevin,Fields,28.0,Male,kevin.fields240@yahoo.com,001-376-522-8277x288,2025-09-07,Silver,Durham,NC,USA,Social Media,True
+287711,Jesus,Johnson,34.0,Male,jesus.johnson807@gmail.com,+1-651-296-1159,2025-03-16,Gold,Rochester,NY,USA,Email,True
+994006,Kelly,Wilson,38.0,Female,kelly.wilson604@yahoo.com,(544)470-2296x044,2025-01-13,Gold,Salem,OR,USA,Social Media,True
+737292,Sabrina,Burns,39.0,Female,sabrina.burns436@gmail.com,+1-951-706-7949,2025-02-14,Gold,San Francisco,CA,USA,Direct,True
+715861,Richard,Alvarez,46.0,Male,richard.alvarez558@hotmail.com,+1-822-887-7725x199,2025-04-08,Silver,Phoenix,AZ,USA,Search,True
+752931,Crystal,Foster,23.0,Female,,3743120948,2025-05-09,Bronze,Buffalo,NY,USA,Referral,True
+557185,Corey,Montgomery,32.0,Male,corey.montgomery931@hotmail.com,001-509-983-7801x82043,2025-08-24,Platinum,Philadelphia,PA,USA,Social Media,False
+499339,Bradley,Ferguson,36.0,Male,bradley.ferguson847@yahoo.com,,2024-09-09,Bronze,Dallas,TX,USA,Search,False
+423328,Ashley,Garcia,51.0,Female,ashley.garcia74@gmail.com,222-241-2462x0952,2024-12-16,Bronze,San Francisco,CA,USA,Search,False
+570417,Edward,Garcia,42.0,Male,edward.garcia170@gmail.com,(854)361-0339x93788,2025-05-16,Bronze,Chicago,IL,USA,Referral,False
+654375,Derrick,Flores,35.0,Male,derrick.flores610@hotmail.com,(617)806-3048x91382,2024-05-11,Silver,Worcester,MA,USA,Email,True
+515674,Jill,Mathis,31.0,Female,jill.mathis450@hotmail.com,925.282.3868,2024-07-26,Silver,Dallas,TX,USA,Direct,False
+526957,April,Marshall,28.0,Female,april.marshall480@hotmail.com,620-207-4946x5398,2025-03-05,Silver,Charlotte,NC,USA,Direct,True
+934213,Christopher,Ferguson,31.0,Male,christopher.ferguson717@gmail.com,616-912-8463x9855,2025-01-19,Bronze,San Diego,CA,USA,Email,True
+393507,Don,Bates,44.0,Male,don.bates966@yahoo.com,937-895-0209x70026,2025-01-21,Bronze,Jacksonville,FL,USA,Email,True
+386818,Joshua,Cobb,45.0,Male,joshua.cobb513@hotmail.com,+1-318-907-1569x5620,2025-01-12,Bronze,Boulder,CO,USA,Social Media,True
+636112,Jacob,Lee,39.0,Male,jacob.lee506@gmail.com,504.953.1943,2024-08-27,Bronze,Durham,NC,USA,Search,False
+416452,Walter,Johnson,42.0,Male,walter.johnson83@yahoo.com,001-593-403-6149x872,2024-04-19,Bronze,Pittsburgh,PA,USA,Social Media,False
+483147,Austin,Anderson,23.0,Male,austin.anderson911@gmail.com,(649)938-4308,2024-08-28,Silver,Los Angeles,CA,USA,Referral,True
+477408,April,Simmons,40.0,Female,april.simmons753@hotmail.com,+1-505-266-4187x7580,2024-02-14,Bronze,Sacramento,CA,USA,Social Media,True
+251262,Donald,Fisher,18.0,Male,donald.fisher619@yahoo.com,706-635-1903x61332,2024-11-05,Silver,Tucson,AZ,USA,Social Media,True
+822610,Amy,Garrett,63.0,Female,amy.garrett27@gmail.com,560.395.4317x3505,2025-05-23,Bronze,Pittsburgh,PA,USA,Email,True
+709483,Reginald,Harvey,35.0,Male,reginald.harvey235@gmail.com,+1-279-611-0065x1207,2024-04-06,Silver,Miami,FL,USA,Email,False
+274094,Leslie,Reynolds,43.0,Male,leslie.reynolds784@gmail.com,+1-908-804-6619x63990,2025-09-30,Bronze,Los Angeles,CA,USA,Search,True
+803050,Julie,Patterson,45.0,Female,julie.patterson842@hotmail.com,+1-315-507-8593x110,2024-04-15,Bronze,Cincinnati,OH,USA,Email,False
+311051,Sue,Martinez,42.0,Female,sue.martinez591@hotmail.com,656-879-7232x002,2025-04-29,Gold,Worcester,MA,USA,Email,True
+878904,Jose,Pearson,49.0,Male,jose.pearson782@yahoo.com,498-222-7495x4508,2025-01-16,Bronze,Chicago,IL,USA,Social Media,True
+479622,David,Fuentes,24.0,Male,david.fuentes482@hotmail.com,9659333153,2025-01-21,Silver,Phoenix,AZ,USA,Direct,False
+728511,Kyle,Rivera,28.0,Male,kyle.rivera668@hotmail.com,001-259-946-5217,2025-03-25,Bronze,Athens,GA,USA,Referral,True
+827483,Colleen,Smith,37.0,Female,colleen.smith939@gmail.com,001-237-793-3756x362,2025-04-10,Gold,Jacksonville,FL,USA,Email,True
+759515,Adam,Howard,58.0,Male,adam.howard186@hotmail.com,524-573-9500,2024-04-01,Silver,Tucson,AZ,USA,Referral,False
+227598,Diane,Robinson,53.0,Female,diane.robinson447@yahoo.com,001-825-383-2302x4102,2024-04-01,Silver,Athens,GA,USA,Social Media,False
+897291,George,Clark,34.0,Male,george.clark993@yahoo.com,455.428.9611,2024-07-16,Bronze,Jacksonville,FL,USA,Email,True
+562945,Robert,Lee,52.0,Male,,001-455-796-3099x384,2024-06-14,Bronze,Miami,FL,USA,Search,True
+407063,Danielle,Soto,27.0,Female,danielle.soto419@yahoo.com,(489)873-1791,2025-03-05,Bronze,Dallas,TX,USA,Referral,False
+987040,Paul,Newman,30.0,Male,paul.newman329@hotmail.com,,2024-12-20,Bronze,San Diego,CA,USA,Email,True
+439154,Daniel,Jacobson,46.0,Male,daniel.jacobson108@yahoo.com,663.346.6925,2025-01-06,Bronze,Grand Rapids,MI,USA,Social Media,True
+336817,Brandy,Miller,37.0,Female,brandy.miller338@yahoo.com,753.990.7895x67766,2025-03-18,Bronze,Columbus,OH,USA,Email,True
+877973,Emily,Reyes,48.0,Female,emily.reyes711@gmail.com,534.315.1488x814,2024-01-22,Platinum,Sacramento,CA,USA,Email,True
+350194,Barbara,Ward,40.0,Female,barbara.ward296@hotmail.com,453.654.4439,2025-01-21,Bronze,Sacramento,CA,USA,Search,False
+787306,Adam,Evans,36.0,Male,adam.evans968@yahoo.com,(969)907-8263x3373,2024-05-18,Gold,Durham,NC,USA,Social Media,True
+713497,Glen,Miller,35.0,Male,glen.miller834@gmail.com,(763)777-8052x92407,2025-06-30,Bronze,Sacramento,CA,USA,Referral,True
+803644,Darin,Simmons,40.0,Male,darin.simmons466@yahoo.com,001-884-859-0902x25999,2024-06-25,Gold,New York,NY,USA,Social Media,True
+717635,Christina,Myers,29.0,Female,christina.myers323@hotmail.com,(237)915-9741x2182,2024-07-09,Gold,Miami,FL,USA,Search,True
+411524,Alexander,Gonzalez,36.0,Male,alexander.gonzalez332@yahoo.com,833-848-1705x8025,2025-02-24,Platinum,Tampa,FL,USA,Search,True
+348820,Brooke,Rodriguez,42.0,Female,brooke.rodriguez994@hotmail.com,(571)963-2346x72994,2024-04-05,Gold,Phoenix,AZ,USA,Email,False
+698248,Donald,Smith,23.0,Male,donald.smith886@gmail.com,216.393.8597x779,2025-04-10,Bronze,Springfield,IL,USA,Email,False
+156042,Donna,Ibarra,39.0,Female,donna.ibarra845@yahoo.com,(446)392-6329x676,2024-03-08,Gold,Naperville,IL,USA,Referral,False
+389060,James,Bautista,50.0,Male,james.bautista674@gmail.com,(348)741-3768,2024-02-19,Bronze,Chicago,IL,USA,Email,False
+432284,Angela,Garcia,42.0,Female,angela.garcia474@yahoo.com,(572)843-8070x17656,2024-07-04,Bronze,Colorado Springs,CO,USA,Social Media,True
+453806,Amanda,King,42.0,Female,amanda.king56@hotmail.com,(957)477-1183,2025-03-03,Bronze,Spokane,WA,USA,Referral,False
+113123,John,Ramirez,29.0,Male,john.ramirez531@gmail.com,(409)312-4186,2024-02-14,Gold,Columbus,OH,USA,Search,False
+260918,Michael,Smith,48.0,Male,michael.smith638@yahoo.com,,2025-06-16,Gold,San Diego,CA,USA,Email,False
+827295,Jeanette,Parker,47.0,Female,jeanette.parker641@gmail.com,+1-200-263-3533x106,2025-07-13,Silver,San Antonio,TX,USA,Social Media,False
+736679,Gabrielle,Lee,36.0,Female,gabrielle.lee779@hotmail.com,731-722-0681,2024-06-15,Silver,Savannah,GA,USA,Social Media,False
+547976,Justin,Lopez,18.0,Male,justin.lopez209@gmail.com,+1-466-213-3155,2025-02-14,Silver,Los Angeles,CA,USA,Search,False
+797677,Richard,Stewart,38.0,Non-binary,richard.stewart563@yahoo.com,573.814.9501,2024-09-10,Silver,Boulder,CO,USA,Email,False
+372352,Eric,George,18.0,Male,eric.george950@gmail.com,001-789-924-1956x252,2025-05-06,Bronze,Boston,MA,USA,Search,False
+412756,Andrea,Smith,60.0,Female,andrea.smith449@hotmail.com,,2025-01-08,Bronze,Dallas,TX,USA,Email,True
+227954,Nicole,Harvey,40.0,Female,nicole.harvey125@gmail.com,(557)943-2630,2024-08-20,Bronze,Sacramento,CA,USA,Direct,True
+325360,Nancy,Murphy,37.0,Female,nancy.murphy997@yahoo.com,508-864-0355x33803,2024-02-17,Bronze,Denver,CO,USA,Direct,True
+941801,Kelly,White,41.0,Female,kelly.white624@hotmail.com,3174130232,2025-11-01,Silver,Scottsdale,AZ,USA,Email,False
+318557,Leslie,Guerra,43.0,Female,leslie.guerra727@gmail.com,881.467.4233,2025-04-27,Silver,Portland,OR,USA,Social Media,False
+484415,Larry,Turner,25.0,Male,larry.turner319@hotmail.com,834.471.5662x776,2025-09-15,Bronze,Seattle,WA,USA,Social Media,True
+697476,Robert,Leon,29.0,Male,robert.leon566@gmail.com,001-966-614-9828x24674,2024-07-10,Silver,Miami,FL,USA,Search,False
+847602,James,Obrien,34.0,Male,james.obrien96@gmail.com,727-832-3008x57666,2024-02-11,Bronze,Eugene,OR,USA,Direct,True
+764907,John,Davidson,46.0,Male,john.davidson862@hotmail.com,660-716-9236,2024-09-24,Silver,San Francisco,CA,USA,Social Media,True
+807261,Jordan,Burns,54.0,Male,jordan.burns473@hotmail.com,(906)463-3705x024,2024-10-03,Bronze,Miami,FL,USA,Direct,False
+360358,David,Guzman,47.0,Male,david.guzman664@hotmail.com,(501)816-6918,2025-02-03,Bronze,Philadelphia,PA,USA,Email,False
+642494,Carol,Simmons,41.0,Female,carol.simmons511@hotmail.com,588-869-4611x9524,2024-03-09,Gold,Columbus,OH,USA,Referral,True
+257777,Melissa,Smith,57.0,Female,melissa.smith299@gmail.com,401.516.8646x2252,2024-07-01,Platinum,Grand Rapids,MI,USA,Social Media,True
+862392,John,Shaw,40.0,Male,john.shaw723@gmail.com,,2024-12-07,Bronze,Allentown,PA,USA,Referral,False
+182858,Angela,Miller,50.0,Female,angela.miller426@gmail.com,215-209-3771x004,2025-08-22,Gold,Boulder,CO,USA,Search,True
+910706,Brent,Boyd,36.0,Male,brent.boyd484@gmail.com,,2024-06-21,Silver,Ann Arbor,MI,USA,Email,True
+898248,Mary,Gray,55.0,Female,mary.gray468@gmail.com,(551)707-6209x184,2024-08-31,Silver,Denver,CO,USA,Email,True
+544877,Jodi,Parks,27.0,Female,jodi.parks149@yahoo.com,363.705.0505x73976,2025-03-26,Bronze,Tacoma,WA,USA,Email,False
+834273,Jessica,Huynh,38.0,Female,jessica.huynh196@yahoo.com,+1-616-949-3289x80271,2024-12-14,Bronze,Eugene,OR,USA,Email,True
+614646,Christopher,Griffin,26.0,Male,christopher.griffin521@gmail.com,,2024-07-24,Gold,Cambridge,MA,USA,Email,False
+404427,Nathan,Wade,72.0,Male,nathan.wade901@hotmail.com,328-771-5399,2024-11-21,Bronze,Scottsdale,AZ,USA,Social Media,False
+948424,Jamie,Love,53.0,Female,,001-568-363-3414x1115,2025-04-26,Silver,Buffalo,NY,USA,Email,True
+261815,Laura,Anderson,54.0,Female,laura.anderson283@yahoo.com,(590)340-9836x6552,2025-10-04,Bronze,Chicago,IL,USA,Search,False
+743901,Jennifer,Medina,41.0,Female,jennifer.medina349@yahoo.com,324-637-7294x20954,2025-10-14,Bronze,Springfield,IL,USA,Direct,True
+822924,Yesenia,Mccarthy,50.0,Female,yesenia.mccarthy274@yahoo.com,+1-837-646-0523x3027,2025-01-13,Bronze,Naperville,IL,USA,Search,True
+210779,William,Hopkins,45.0,Male,william.hopkins290@gmail.com,,2024-07-19,Bronze,Los Angeles,CA,USA,Social Media,True
+884309,Douglas,Leblanc,37.0,Male,douglas.leblanc306@hotmail.com,+1-461-425-9047,2024-03-19,Bronze,Durham,NC,USA,Email,True
+637008,Jessica,Olson,21.0,Female,jessica.olson887@gmail.com,833.405.9126,2025-02-26,Silver,Albany,NY,USA,Social Media,True
+525350,Timothy,Davis,23.0,Male,timothy.davis458@yahoo.com,(501)285-9626,2025-05-20,Bronze,Columbus,OH,USA,Email,False
+620638,Bryan,Sanders,22.0,Male,,001-392-361-7647x501,2025-04-23,Platinum,Grand Rapids,MI,USA,Referral,False
+856108,Bryan,May,32.0,Male,bryan.may341@hotmail.com,409.899.7419,2025-01-16,Gold,Dallas,TX,USA,Email,True
+789354,John,Newman,39.0,Male,john.newman782@yahoo.com,992-315-1826x0688,2024-11-07,Gold,Durham,NC,USA,Email,True
+846901,Joseph,Richards,47.0,Male,joseph.richards387@hotmail.com,+1-413-512-9208x7510,2024-12-20,Silver,Naperville,IL,USA,Social Media,True
+151519,Matthew,Miller,36.0,Male,matthew.miller956@yahoo.com,001-601-918-4582x60340,2024-02-22,Bronze,Pittsburgh,PA,USA,Social Media,False
+910789,Charles,Henry,18.0,Male,charles.henry891@yahoo.com,459.588.3103x03243,2024-09-30,Silver,Spokane,WA,USA,Social Media,True
+737360,Kevin,Ramirez,23.0,Male,kevin.ramirez715@hotmail.com,+1-861-484-4626x714,2025-01-06,Silver,Buffalo,NY,USA,Search,True
+794585,Joshua,Jones,37.0,Male,joshua.jones586@hotmail.com,235-598-9262x566,2024-11-02,Bronze,Seattle,WA,USA,Email,False
+542007,Angela,Martinez,31.0,Female,angela.martinez240@gmail.com,+1-886-515-1554x23401,2024-09-25,Platinum,Jacksonville,FL,USA,Search,True
+301566,James,Garcia,43.0,Male,james.garcia45@gmail.com,(684)697-1859,2024-05-13,Silver,Springfield,IL,USA,Email,False
+755714,Lisa,Mosley,22.0,Female,lisa.mosley763@gmail.com,462-458-8967x92408,2025-05-12,Bronze,Rochester,NY,USA,Social Media,False
+632737,Brenda,Bradley,42.0,Female,brenda.bradley723@yahoo.com,9536967275,2025-06-10,Bronze,San Antonio,TX,USA,Direct,True
+152304,Donald,Patterson,36.0,Male,donald.patterson396@hotmail.com,541.346.5111,2025-08-14,Silver,Springfield,IL,USA,Referral,False
+414522,Carmen,Brown,18.0,Female,carmen.brown812@hotmail.com,287-506-8277x8816,2024-06-21,Silver,Cincinnati,OH,USA,Social Media,True
+914509,Susan,Reese,47.0,Female,susan.reese508@hotmail.com,(785)438-9097x28321,2024-08-14,Bronze,Austin,TX,USA,Search,True
+719707,Jose,Farley,41.0,Male,jose.farley130@yahoo.com,662.551.5381x4474,2024-12-17,Platinum,Seattle,WA,USA,Social Media,True
+871382,Aaron,Welch,53.0,Non-binary,aaron.welch891@yahoo.com,248.907.9705,2025-05-10,Silver,Rochester,NY,USA,Email,True
+617763,Gary,Gomez,41.0,Male,gary.gomez896@gmail.com,(426)850-1673x188,2024-08-09,Silver,Phoenix,AZ,USA,Direct,True
+278950,Becky,Freeman,32.0,Female,becky.freeman103@gmail.com,001-943-476-5456x28417,2025-03-28,Platinum,Raleigh,NC,USA,Social Media,True
+120841,Brenda,Burgess,18.0,Female,brenda.burgess16@gmail.com,(531)934-0266x502,2024-05-02,Silver,San Antonio,TX,USA,Direct,True
+935794,Tina,Bird,18.0,Female,tina.bird148@gmail.com,(478)772-5686x21102,2025-07-20,Platinum,Durham,NC,USA,Direct,False
+815544,Jonathan,Saunders,50.0,Male,jonathan.saunders892@gmail.com,9563906744,2024-12-14,Bronze,Spokane,WA,USA,Referral,True
+858611,Kathleen,Wright,25.0,Non-binary,kathleen.wright77@gmail.com,,2025-08-30,Bronze,Austin,TX,USA,Social Media,False
+602443,Wendy,Garza,42.0,Female,wendy.garza801@hotmail.com,(831)226-0432,2024-10-12,Bronze,Sacramento,CA,USA,Email,True
+155691,Lisa,Davis,33.0,Female,lisa.davis347@gmail.com,(668)343-3567x0860,2024-06-17,Gold,San Diego,CA,USA,Search,False
+866404,Debra,Ramirez,54.0,Female,debra.ramirez710@yahoo.com,001-963-650-2000x534,2024-12-11,Bronze,Cincinnati,OH,USA,Referral,False
+827082,Terry,Garcia,48.0,Male,terry.garcia666@gmail.com,775-754-1108x255,2024-09-13,Bronze,Ann Arbor,MI,USA,Email,True
+206910,David,Hill,29.0,Male,david.hill873@hotmail.com,(711)629-1093x3711,2024-05-26,Silver,Los Angeles,CA,USA,Referral,False
+301091,Nicholas,Mayo,45.0,Male,nicholas.mayo873@gmail.com,+1-720-723-6848,2025-07-06,Silver,Eugene,OR,USA,Social Media,True
+287307,Joan,Love,51.0,Female,joan.love978@yahoo.com,476-688-0294,2024-10-27,Silver,Sacramento,CA,USA,Social Media,False
+653662,Amber,Knight,47.0,Female,amber.knight642@hotmail.com,867.888.1278,2024-06-03,Silver,Tampa,FL,USA,Email,False
+371877,James,Nelson,52.0,Male,james.nelson894@gmail.com,,2024-08-09,Silver,Albany,NY,USA,Referral,True
+491813,Samuel,Phillips,50.0,Male,samuel.phillips633@yahoo.com,+1-412-630-8340,2025-04-23,Silver,Los Angeles,CA,USA,Search,True
+451437,Tammy,Nelson,28.0,Female,tammy.nelson241@gmail.com,+1-433-881-0595x5184,2025-05-17,Silver,Charlotte,NC,USA,Direct,False
+538319,Steven,Phillips,38.0,Male,steven.phillips233@gmail.com,+1-505-934-2408x9164,2024-12-28,Platinum,San Diego,CA,USA,Social Media,True
+556417,Connie,Adams,43.0,Female,connie.adams445@hotmail.com,+1-462-473-6527x1727,2024-01-12,Bronze,Los Angeles,CA,USA,Search,True
+961935,Chelsea,Henry,47.0,Female,chelsea.henry779@hotmail.com,(340)442-2693,2024-10-29,Bronze,Detroit,MI,USA,Social Media,True
+804664,Andrea,Sanchez,41.0,Female,andrea.sanchez455@hotmail.com,(418)520-9166x0100,2025-06-08,Silver,New York,NY,USA,Social Media,False
+473801,Kayla,Adams,48.0,Non-binary,kayla.adams711@hotmail.com,+1-400-618-5132x797,2024-10-20,Bronze,Charlotte,NC,USA,Email,False
+322412,Gary,Moore,67.0,Male,gary.moore926@gmail.com,+1-348-810-0184,2025-04-04,Silver,Tampa,FL,USA,Referral,False
+320881,Brenda,Barr,41.0,Female,brenda.barr48@gmail.com,966.425.4361,2024-07-16,Silver,Los Angeles,CA,USA,Email,True
+598667,Wanda,Walker,25.0,Female,wanda.walker816@yahoo.com,(719)451-5109x226,2025-06-27,Bronze,San Diego,CA,USA,Direct,True
+349075,Meghan,Hernandez,77.0,Female,meghan.hernandez301@hotmail.com,+1-749-445-1475x41022,2025-05-18,Gold,Houston,TX,USA,Email,True
+306886,Jeanette,Griffith,59.0,Female,jeanette.griffith384@yahoo.com,419-864-2152,2024-04-01,Bronze,Cleveland,OH,USA,Search,False
+251833,Harold,Snyder,48.0,Male,harold.snyder150@yahoo.com,001-969-552-3668x788,2024-11-08,Platinum,San Antonio,TX,USA,Email,True
+899875,James,Carpenter,43.0,Male,james.carpenter544@yahoo.com,293.713.5030x58721,2025-03-16,Bronze,Denver,CO,USA,Email,False
+948373,Heather,Atkinson,55.0,Female,heather.atkinson580@gmail.com,272-886-3330x2126,2025-03-13,Silver,Savannah,GA,USA,Search,True
+932413,Jacqueline,Miles,55.0,Female,jacqueline.miles175@hotmail.com,001-317-592-0252,2025-07-12,Platinum,Orlando,FL,USA,Social Media,True
+436994,Billy,Carroll,28.0,Male,billy.carroll81@yahoo.com,(927)228-4765,2024-03-13,Gold,Denver,CO,USA,Email,False
+955115,Donna,Moore,25.0,Female,donna.moore635@hotmail.com,6926820667,2024-09-06,Gold,Sacramento,CA,USA,Email,True
+504017,Michelle,Henderson,30.0,Female,michelle.henderson247@gmail.com,318-962-3690x362,2024-10-15,Silver,Durham,NC,USA,Email,True
+710563,John,Delgado,19.0,Male,john.delgado935@yahoo.com,(220)556-3411x1595,2025-01-25,Bronze,Spokane,WA,USA,Email,True
+166029,Diane,Weaver,51.0,Female,diane.weaver147@gmail.com,690.343.8303,2025-03-28,Bronze,Scottsdale,AZ,USA,Referral,True
+574033,William,Cunningham,34.0,Male,william.cunningham473@hotmail.com,800.751.4054x6835,2024-09-30,Bronze,Austin,TX,USA,Email,True
+217702,Valerie,Park,21.0,Female,valerie.park471@gmail.com,468-918-2096x79042,2024-12-11,Bronze,Dallas,TX,USA,Search,True
+555322,Blake,Garrett,48.0,Male,blake.garrett683@hotmail.com,932.428.8985,2024-10-28,Silver,Eugene,OR,USA,Direct,True
+380733,Gerald,Ward,30.0,Male,gerald.ward921@yahoo.com,9633399129,2025-02-17,Silver,Chicago,IL,USA,Social Media,False
+794297,Regina,Thomas,24.0,Female,regina.thomas923@yahoo.com,+1-317-617-5242,2024-04-12,Silver,San Antonio,TX,USA,Social Media,True
+784939,Laura,Gomez,20.0,Female,laura.gomez694@gmail.com,(974)274-7219,2024-09-20,Gold,Worcester,MA,USA,Social Media,True
+835554,Heidi,Mitchell,39.0,Female,heidi.mitchell162@yahoo.com,+1-627-258-9551x687,2024-09-28,Silver,Cambridge,MA,USA,Direct,False
+275133,Lisa,Schneider,36.0,Female,lisa.schneider453@hotmail.com,880.321.4629,2024-05-27,Silver,Chicago,IL,USA,Referral,True
+406634,Courtney,Sawyer,18.0,Female,courtney.sawyer602@hotmail.com,357-878-7112,2024-05-07,Silver,Cleveland,OH,USA,Referral,True
+829874,Patricia,Gonzalez,36.0,Female,patricia.gonzalez655@yahoo.com,,2024-05-12,Gold,San Diego,CA,USA,Email,True
+427009,Amy,Fry,55.0,Non-binary,amy.fry707@gmail.com,,2024-06-16,Bronze,Savannah,GA,USA,Email,True
+439951,Troy,Sutton,40.0,Male,troy.sutton468@yahoo.com,521-621-4614x768,2025-01-13,Gold,Ann Arbor,MI,USA,Email,True
+100060,Cathy,Brown,55.0,Female,cathy.brown204@yahoo.com,242-535-6778x26596,2024-12-01,Silver,Raleigh,NC,USA,Email,False
+665342,Blake,Contreras,43.0,Male,blake.contreras874@hotmail.com,(355)802-7275,2025-09-28,Bronze,Raleigh,NC,USA,Social Media,True
+730705,Deborah,Bowen,40.0,Female,deborah.bowen110@yahoo.com,(479)810-3368,2025-02-23,Silver,Raleigh,NC,USA,Referral,True
+837141,Daniel,Clark,48.0,Male,daniel.clark391@gmail.com,+1-790-755-0448x17766,2025-05-31,Bronze,Portland,OR,USA,Email,False
+510781,Ronald,Simmons,41.0,Male,ronald.simmons589@yahoo.com,827-865-2892,2024-05-17,Bronze,Rochester,NY,USA,Social Media,True
+305669,Dustin,Keller,37.0,Male,dustin.keller717@hotmail.com,(349)911-1109x61798,2024-11-12,Bronze,San Diego,CA,USA,Social Media,False
+253760,Jonathan,Shaffer,,Male,jonathan.shaffer23@hotmail.com,863-837-8613x7157,2024-06-15,Bronze,Dallas,TX,USA,Referral,True
+169983,Adam,Brooks,35.0,Male,adam.brooks282@gmail.com,744.744.6306x00025,2024-05-22,Silver,Sacramento,CA,USA,Search,True
+983557,Christopher,Armstrong,44.0,Male,christopher.armstrong580@yahoo.com,486.839.6096,2024-07-06,Silver,Miami,FL,USA,Referral,False
+253940,Vanessa,Thompson,21.0,Female,vanessa.thompson797@yahoo.com,526.331.2819x64825,2025-05-15,Gold,Scottsdale,AZ,USA,Social Media,True
+100667,Brandon,Kim,38.0,Male,brandon.kim933@hotmail.com,001-592-509-8196x02752,2025-02-09,Gold,Los Angeles,CA,USA,Social Media,False
+833249,Elizabeth,Nichols,58.0,Female,,001-364-304-1209x1179,2024-07-10,Bronze,Cincinnati,OH,USA,Search,True
+299732,Brenda,Green,40.0,Female,brenda.green853@gmail.com,817-353-6170,2025-05-09,Silver,San Antonio,TX,USA,Social Media,False
+244629,John,Garrett,23.0,Male,john.garrett795@gmail.com,+1-766-757-2240x29901,2024-09-25,Silver,Tucson,AZ,USA,Referral,False
+115886,Karen,Mendez,56.0,Female,karen.mendez622@hotmail.com,2284413908,2024-02-03,Bronze,San Francisco,CA,USA,Email,True
+531428,Daniel,Diaz,42.0,Male,daniel.diaz225@gmail.com,5523312447,2024-04-19,Bronze,Dallas,TX,USA,Search,False
+516392,Hannah,Arnold,34.0,Female,hannah.arnold636@yahoo.com,676.486.3423x461,2024-04-13,Bronze,Austin,TX,USA,Email,True
+375437,Robert,Mckay,20.0,Male,robert.mckay695@yahoo.com,(776)394-5919x66395,2025-06-12,Platinum,Tampa,FL,USA,Email,False
+859423,Jerry,Preston,30.0,Male,jerry.preston786@hotmail.com,896-449-8560x125,2025-05-06,Bronze,Allentown,PA,USA,Social Media,True
+737353,Hunter,Jones,42.0,Male,hunter.jones698@hotmail.com,(752)551-0505x379,2024-07-22,Bronze,Athens,GA,USA,Referral,False
+378967,Kristina,Cruz,,Female,kristina.cruz644@hotmail.com,883.818.4919,2024-05-01,Silver,Portland,OR,USA,Social Media,False
+573010,Emily,Flores,18.0,Female,emily.flores926@gmail.com,4777046117,2024-05-10,Bronze,Columbus,OH,USA,Search,True
+504586,Leslie,Young,23.0,Female,leslie.young662@gmail.com,209-307-4260x8805,2024-06-18,Bronze,Tacoma,WA,USA,Search,True
+579703,John,Gallegos,36.0,Male,john.gallegos317@yahoo.com,,2025-10-02,Bronze,Miami,FL,USA,Direct,True
+779402,Johnny,Davidson,30.0,Male,johnny.davidson35@gmail.com,(491)303-0021x563,2024-04-28,Bronze,San Antonio,TX,USA,Social Media,True
+567801,Cheryl,Barrera,33.0,Female,cheryl.barrera750@yahoo.com,+1-600-740-1041,2025-01-23,Platinum,San Diego,CA,USA,Search,True
+335665,Melissa,Conner,43.0,Female,melissa.conner93@yahoo.com,,2024-03-11,Bronze,Philadelphia,PA,USA,Email,True
+682861,Laura,Stanley,34.0,Female,laura.stanley335@yahoo.com,273-514-4158x33117,2025-05-02,Bronze,Dallas,TX,USA,Direct,True
+953386,Adam,Robinson,64.0,Male,adam.robinson180@yahoo.com,671.953.9885,2024-12-14,Gold,Sacramento,CA,USA,Direct,False
+335153,Matthew,Abbott,27.0,Male,matthew.abbott136@gmail.com,(535)367-9836,2025-05-20,Gold,Phoenix,AZ,USA,Search,True
+517512,Diana,Martin,18.0,Female,diana.martin544@yahoo.com,001-412-671-1307,2024-12-30,Silver,Rochester,NY,USA,Search,False
+222246,Allen,Stanley,37.0,Male,allen.stanley936@yahoo.com,(741)281-5632x686,2024-07-28,Gold,Allentown,PA,USA,Social Media,True
+355438,Jessica,Wood,47.0,Female,jessica.wood851@gmail.com,+1-866-334-3629x4897,2024-12-04,Gold,Tampa,FL,USA,Direct,False
+725334,Melanie,Lucas,51.0,Female,melanie.lucas264@gmail.com,310.609.4318,2024-04-07,Bronze,Portland,OR,USA,Social Media,False
+520461,Courtney,Oliver,38.0,Female,courtney.oliver991@hotmail.com,(666)213-4732x3549,2025-10-05,Bronze,Boulder,CO,USA,Email,True
+336377,Brandon,Gordon,46.0,Male,brandon.gordon765@hotmail.com,+1-274-932-5122x572,2025-10-14,Silver,Pittsburgh,PA,USA,Direct,True
+358627,Jeffrey,Smith,44.0,Male,jeffrey.smith824@yahoo.com,520-995-7907,2025-01-08,Gold,Spokane,WA,USA,Email,True
+286486,Brian,Fuentes,28.0,Male,brian.fuentes480@hotmail.com,+1-643-988-2211x45775,2024-08-26,Gold,Seattle,WA,USA,Search,False
+568684,Dawn,Ellis,35.0,Female,dawn.ellis145@yahoo.com,758-997-1480x2632,2025-01-10,Bronze,Boston,MA,USA,Email,True
+845092,Amanda,Lane,54.0,Female,amanda.lane881@hotmail.com,(753)813-6148x78245,2025-04-04,Platinum,San Francisco,CA,USA,Referral,False
+986967,Kevin,Landry,18.0,Male,kevin.landry742@yahoo.com,330-298-5916x7954,2025-03-26,Bronze,Naperville,IL,USA,Referral,True
+597711,Jonathan,Jennings,64.0,Male,jonathan.jennings991@yahoo.com,+1-228-549-8247x41407,2024-03-21,Bronze,Albany,NY,USA,Email,True
+778621,Diane,Watkins,37.0,Female,diane.watkins93@gmail.com,440.365.0042x5488,2024-11-06,Bronze,Dallas,TX,USA,Search,False
+950096,Michelle,Thomas,42.0,Female,michelle.thomas15@hotmail.com,,2025-07-12,Bronze,Sacramento,CA,USA,Social Media,True
+533743,Jay,Rasmussen,47.0,Male,,449-842-9659x234,2024-10-02,Gold,Dallas,TX,USA,Email,True
+779182,Julian,Turner,25.0,Male,julian.turner466@gmail.com,797-982-6612x8758,2024-08-20,Bronze,Charlotte,NC,USA,Email,True
+114618,Hector,Owens,35.0,Male,hector.owens689@yahoo.com,708.406.1294x398,2024-12-03,Bronze,Ann Arbor,MI,USA,Email,True
+678035,Lisa,Yoder,31.0,Female,lisa.yoder689@yahoo.com,3622607870,2024-06-25,Silver,Naperville,IL,USA,Referral,True
+471945,Devin,Andersen,18.0,Male,devin.andersen599@gmail.com,491-949-7501x98038,2024-03-29,Silver,San Diego,CA,USA,Email,False
+908622,Chad,Jacobson,39.0,Male,chad.jacobson843@hotmail.com,,2024-11-12,Silver,Cleveland,OH,USA,Email,True
+276268,Larry,Martinez,37.0,Male,larry.martinez111@gmail.com,331.670.8760,2024-11-22,Bronze,San Diego,CA,USA,Email,False
+885361,Jared,Mcgrath,24.0,Male,jared.mcgrath483@gmail.com,+1-449-479-1620,2025-03-31,Bronze,Orlando,FL,USA,Email,True
+496913,Sabrina,Sandoval,48.0,Female,sabrina.sandoval635@gmail.com,383.977.4419x75466,2025-03-04,Bronze,Houston,TX,USA,Social Media,True
+453881,Jennifer,Coleman,50.0,Female,jennifer.coleman336@gmail.com,471-996-0940x9705,2025-03-19,Silver,Scottsdale,AZ,USA,Email,True
+394360,Stephen,Ellis,18.0,Male,stephen.ellis664@gmail.com,(358)483-5868,2025-10-24,Gold,San Francisco,CA,USA,Email,False
+352636,Mary,Bell,45.0,Female,mary.bell651@hotmail.com,001-857-924-4617,2025-02-24,Bronze,Seattle,WA,USA,Email,True
+506511,Larry,White,38.0,Male,larry.white932@hotmail.com,484.525.9959x96100,2025-11-09,Gold,Sacramento,CA,USA,Email,True
+998168,Brent,Rodriguez,37.0,Male,brent.rodriguez665@hotmail.com,253.331.2661x0941,2025-06-21,Bronze,Dallas,TX,USA,Email,True
+831033,Jessica,Brooks,31.0,Female,jessica.brooks120@hotmail.com,5255176298,2024-07-24,Bronze,Worcester,MA,USA,Referral,False
+180132,Dawn,Kim,18.0,Female,dawn.kim47@yahoo.com,332.568.3190,2024-04-01,Silver,San Francisco,CA,USA,Social Media,True
+379523,Amanda,Taylor,35.0,Female,amanda.taylor312@gmail.com,(969)781-5287x339,2024-02-01,Gold,Chicago,IL,USA,Social Media,True
+531607,Heather,Yoder,39.0,Female,heather.yoder119@gmail.com,676-361-9128,2025-03-14,Bronze,Savannah,GA,USA,Social Media,True
+339370,David,Hall,18.0,Non-binary,david.hall241@hotmail.com,+1-450-634-4651,2025-03-20,Gold,Miami,FL,USA,Email,False
+301622,Angela,Johnston,32.0,Female,angela.johnston398@hotmail.com,+1-284-769-0819x740,2024-06-01,Bronze,Orlando,FL,USA,Email,True
+126909,Jason,Gonzalez,60.0,Male,jason.gonzalez380@gmail.com,(238)750-3719,2025-06-23,Gold,Pittsburgh,PA,USA,Referral,True
+563979,William,Dodson,53.0,Male,william.dodson602@hotmail.com,,2025-03-10,Gold,Sacramento,CA,USA,Social Media,True
+645647,Tim,Harrington,50.0,Non-binary,tim.harrington907@gmail.com,9002389608,2024-11-16,Bronze,Buffalo,NY,USA,Referral,True
+206781,James,Bennett,18.0,Male,james.bennett671@gmail.com,(568)521-7195x53560,2025-02-27,Bronze,Tucson,AZ,USA,Email,True
+977660,Brandon,Smith,56.0,Male,brandon.smith854@yahoo.com,001-289-700-3010x2724,2025-01-24,Silver,Houston,TX,USA,Email,True
+264469,Gregory,Rios,36.0,Male,gregory.rios631@gmail.com,529-967-1114x8375,2025-02-08,Bronze,Tucson,AZ,USA,Search,True
+433152,Micheal,Pugh,44.0,Male,micheal.pugh962@hotmail.com,638-345-8810x5697,2025-06-25,Gold,San Antonio,TX,USA,Referral,True
+217837,Christina,Taylor,30.0,Female,christina.taylor34@hotmail.com,948.931.5203,2025-07-24,Silver,San Diego,CA,USA,Search,True
+652866,Troy,Smith,36.0,Male,troy.smith223@gmail.com,849-864-1049x670,2025-02-05,Bronze,Dallas,TX,USA,Social Media,False
+552830,Jeremy,Walker,24.0,Male,jeremy.walker456@yahoo.com,(768)604-0850,2025-06-07,Bronze,Albany,NY,USA,Search,True
+816060,Robert,Garza,31.0,Male,robert.garza876@gmail.com,696-460-1864x87699,2024-09-26,Silver,Chicago,IL,USA,Search,False
+683060,Tyler,Mcdonald,46.0,Male,tyler.mcdonald102@gmail.com,(804)241-3845,2024-11-20,Bronze,Rochester,NY,USA,Search,True
+545611,Lisa,Ward,30.0,Female,lisa.ward558@hotmail.com,990-214-9542x770,2024-10-01,Platinum,Tampa,FL,USA,Direct,True
+751366,Julie,Church,31.0,Female,julie.church63@yahoo.com,+1-483-660-9149x8517,2025-07-13,Gold,Rochester,NY,USA,Email,False
+138509,Katie,Hill,57.0,Non-binary,katie.hill283@yahoo.com,(432)929-0310,2024-06-08,Bronze,Sacramento,CA,USA,Search,True
+982601,Lauren,Williams,53.0,Female,lauren.williams992@hotmail.com,504.740.5809,2024-02-22,Silver,Seattle,WA,USA,Search,True
+447329,Ashley,Hunter,31.0,Female,ashley.hunter972@gmail.com,713.735.9561x64205,2025-03-23,Gold,Los Angeles,CA,USA,Search,True
+118393,William,Merritt,18.0,Male,william.merritt94@yahoo.com,549.702.5042x9019,2024-08-24,Bronze,San Antonio,TX,USA,Referral,True
+791582,Kayla,Norman,30.0,Female,kayla.norman218@hotmail.com,001-353-569-0261,2024-10-02,Bronze,Scottsdale,AZ,USA,Search,True
+815076,Keith,Cuevas,40.0,Male,keith.cuevas52@hotmail.com,+1-968-718-0978,2024-07-08,Bronze,Houston,TX,USA,Social Media,True
+999714,Debra,Huff,29.0,Female,debra.huff250@yahoo.com,953.853.7513,2024-03-24,Gold,Boulder,CO,USA,Email,False
+635222,Ivan,Bell,27.0,Male,ivan.bell806@hotmail.com,457-593-7639,2024-10-07,Silver,Detroit,MI,USA,Email,False
+568666,Paula,Russell,33.0,Female,paula.russell211@hotmail.com,+1-929-544-5511x66829,2024-06-30,Bronze,Athens,GA,USA,Email,True
+753438,Steven,Walter,33.0,Male,steven.walter850@gmail.com,(816)248-7120,2024-08-03,Gold,Denver,CO,USA,Email,False
+793675,Michael,Fritz,35.0,Male,michael.fritz601@gmail.com,386.265.2683x41559,2024-09-05,Bronze,Buffalo,NY,USA,Email,True
+678461,Angela,Mccall,43.0,Female,,(776)947-2298x12099,2024-05-08,Bronze,Atlanta,GA,USA,Email,False
+424543,James,Gonzales,58.0,Male,james.gonzales337@hotmail.com,001-894-613-4750x9889,2024-11-18,Bronze,Charlotte,NC,USA,Referral,True
+153940,Erica,Flores,45.0,Female,erica.flores808@gmail.com,(303)768-4995,2024-12-13,Bronze,Charlotte,NC,USA,Email,True
+314363,Dustin,Wilson,58.0,Male,,473.224.4913x4213,2025-06-21,Bronze,Houston,TX,USA,Social Media,True
+753872,Linda,Williams,48.0,Female,linda.williams134@hotmail.com,+1-830-970-5349,2025-05-11,Gold,Seattle,WA,USA,Email,True
+957642,Kelly,Guerra,30.0,Female,kelly.guerra257@yahoo.com,317-767-4124,2025-01-28,Platinum,Cambridge,MA,USA,Email,True
+871000,Regina,Garner,38.0,Female,regina.garner113@gmail.com,001-315-728-5478x1506,2024-03-20,Bronze,Austin,TX,USA,Referral,False
+625328,Cheryl,Grant,51.0,Female,cheryl.grant888@hotmail.com,9034296334,2024-05-06,Bronze,Tacoma,WA,USA,Search,False
+262277,Kari,Lopez,21.0,Female,kari.lopez135@yahoo.com,423-218-3061x7893,2025-02-10,Silver,Seattle,WA,USA,Email,True
+361096,Jennifer,Baker,39.0,Female,jennifer.baker367@yahoo.com,+1-793-957-8243x4776,2025-04-19,Gold,Miami,FL,USA,Search,True
+724848,Elizabeth,Robinson,21.0,Female,elizabeth.robinson603@yahoo.com,(975)836-1275x15627,2025-01-08,Bronze,San Francisco,CA,USA,Search,False
+752195,Melissa,Johnson,57.0,Female,melissa.johnson17@yahoo.com,236.608.5456x67664,2024-12-30,Bronze,Rochester,NY,USA,Referral,True
+429136,John,Robinson,29.0,Male,john.robinson272@hotmail.com,3477639283,2024-07-16,Bronze,Seattle,WA,USA,Social Media,True
+851678,Beverly,Fernandez,19.0,Female,beverly.fernandez130@hotmail.com,,2024-08-15,Bronze,Houston,TX,USA,Search,False
+236446,Joseph,Galloway,22.0,Male,joseph.galloway539@hotmail.com,,2024-05-05,Silver,Jacksonville,FL,USA,Search,False
+454208,Rick,Williams,29.0,Male,rick.williams764@yahoo.com,303-830-4166x2411,2025-06-22,Bronze,Los Angeles,CA,USA,Email,True
+740092,Alicia,Newton,46.0,Female,alicia.newton488@hotmail.com,+1-621-696-3945x680,2024-04-05,Platinum,Miami,FL,USA,Search,True
+437318,Stephen,Garcia,44.0,Non-binary,stephen.garcia797@hotmail.com,001-676-946-1368,2024-12-19,Bronze,Spokane,WA,USA,Search,False
+590618,Duane,Warner,39.0,Male,duane.warner526@hotmail.com,560.276.5817,2024-10-09,Bronze,Worcester,MA,USA,Direct,True
+862231,James,Hall,49.0,Male,james.hall463@yahoo.com,591.345.2118x2379,2025-04-13,Bronze,Los Angeles,CA,USA,Email,True
+867788,Charles,Jensen,19.0,Male,,893.207.4645x20599,2024-06-01,Gold,Colorado Springs,CO,USA,Social Media,False
+131665,Derrick,Clark,26.0,Male,derrick.clark745@hotmail.com,387.853.5778x8116,2025-09-08,Bronze,Houston,TX,USA,Social Media,True
+587021,Cameron,Smith,51.0,Male,cameron.smith470@hotmail.com,001-812-837-1067x2872,2024-04-23,Bronze,Tampa,FL,USA,Social Media,True
+255491,Alexandra,Wilson,37.0,Female,alexandra.wilson988@yahoo.com,001-748-659-5922x4839,2024-06-11,Bronze,Allentown,PA,USA,Social Media,True
+368957,John,Clark,29.0,Male,john.clark63@yahoo.com,001-622-587-0562x2710,2024-03-04,Gold,Houston,TX,USA,Email,True
+774837,Christina,Davis,39.0,Female,christina.davis868@yahoo.com,610-697-9215x83503,2025-05-04,Bronze,San Antonio,TX,USA,Social Media,True
+597707,Samantha,Parrish,24.0,Female,samantha.parrish437@hotmail.com,001-545-696-4883x1921,2024-07-14,Bronze,Albany,NY,USA,Referral,True
+521111,Christopher,Elliott,57.0,Male,christopher.elliott111@gmail.com,596.359.9949x73203,2025-08-22,Silver,Grand Rapids,MI,USA,Social Media,True
+374397,Tara,Mendez,18.0,Female,tara.mendez730@gmail.com,(870)951-0287,2024-11-11,Bronze,Spokane,WA,USA,Email,False
+431975,Erin,Mason,42.0,Female,erin.mason76@gmail.com,786.366.7548,2024-11-13,Silver,San Antonio,TX,USA,Referral,True
+744297,Sophia,Wilkinson,45.0,Female,sophia.wilkinson330@gmail.com,,2025-06-08,Silver,Houston,TX,USA,Social Media,False
+440630,Scott,Townsend,41.0,Male,scott.townsend68@yahoo.com,001-563-298-3652x0375,2024-11-13,Silver,Orlando,FL,USA,Social Media,False
+999465,Kevin,Murphy,34.0,Male,kevin.murphy282@yahoo.com,,2024-06-17,Bronze,Philadelphia,PA,USA,Email,False
+666414,Scott,Pennington,33.0,Male,scott.pennington649@hotmail.com,+1-477-327-8105x0922,2024-08-02,Bronze,Durham,NC,USA,Direct,True
+816376,Jason,Singleton,55.0,Male,jason.singleton562@gmail.com,705.218.4390x552,2024-09-15,Bronze,Colorado Springs,CO,USA,Search,True
+592307,Teresa,Powell,21.0,Female,teresa.powell391@hotmail.com,+1-801-438-2412x70493,2024-11-05,Gold,San Diego,CA,USA,Search,True
+893245,Mark,Wilkinson,41.0,Male,mark.wilkinson544@gmail.com,348-451-5791x9711,2025-02-01,Bronze,Durham,NC,USA,Referral,False
+848510,Monica,Lopez,41.0,Female,monica.lopez465@hotmail.com,+1-202-803-5713x4324,2024-07-25,Bronze,Savannah,GA,USA,Referral,False
+798036,Michael,Thompson,49.0,Male,michael.thompson620@gmail.com,001-656-933-4324,2024-08-19,Bronze,Cincinnati,OH,USA,Email,False
+621129,Dennis,Burns,33.0,Male,dennis.burns102@hotmail.com,(858)772-0962x893,2025-03-29,Platinum,Raleigh,NC,USA,Email,False
+584769,Maria,Fleming,41.0,Female,maria.fleming874@yahoo.com,558.984.1834,2025-06-07,Bronze,Houston,TX,USA,Email,True
+250589,Debbie,Weeks,48.0,Female,debbie.weeks441@hotmail.com,+1-727-227-9559x69051,2024-02-07,Silver,Buffalo,NY,USA,Direct,True
+252894,Christopher,Alvarez,54.0,Male,christopher.alvarez910@yahoo.com,+1-812-854-2782x0797,2024-05-25,Silver,Eugene,OR,USA,Email,False
+356668,John,Sanchez,36.0,Male,john.sanchez424@hotmail.com,(695)876-4038x166,2024-04-15,Bronze,Austin,TX,USA,Social Media,True
+625033,Leslie,Martin,33.0,Female,leslie.martin848@gmail.com,998-839-2250x1425,2024-09-23,Bronze,Rochester,NY,USA,Email,True
+525017,Carmen,Smith,44.0,Female,carmen.smith409@gmail.com,324.541.2336,2024-07-17,Bronze,Sacramento,CA,USA,Email,True
+780023,Christian,Peters,27.0,Male,christian.peters748@yahoo.com,9728517863,2025-06-09,Bronze,Jacksonville,FL,USA,Referral,True
+658613,Sandra,Mccarthy,20.0,Female,sandra.mccarthy321@gmail.com,(925)226-5469x6815,2024-02-28,Bronze,Atlanta,GA,USA,Social Media,False
+932663,Daniel,Franklin,29.0,Male,daniel.franklin321@gmail.com,(555)280-9961x327,2024-05-21,Bronze,Cleveland,OH,USA,Email,False
+105585,Daniel,Graham,38.0,Male,daniel.graham384@yahoo.com,(826)324-4670x4622,2024-03-15,Bronze,Dallas,TX,USA,Email,False
+593353,Julie,Miller,65.0,Female,julie.miller704@hotmail.com,001-816-802-5298x6707,2025-07-03,Bronze,Atlanta,GA,USA,Email,True
+759700,Patricia,Turner,37.0,Female,patricia.turner69@yahoo.com,001-819-378-5758x5126,2024-04-24,Silver,Boulder,CO,USA,Email,True
+409624,Brittany,Rogers,23.0,Female,brittany.rogers852@hotmail.com,,2024-08-04,Bronze,Detroit,MI,USA,Social Media,True
+180716,Bryan,Burns,49.0,Male,bryan.burns96@yahoo.com,6954465408,2024-03-06,Silver,New York,NY,USA,Email,False
+668093,Elaine,Butler,40.0,Female,elaine.butler99@yahoo.com,440-491-5086x32181,2024-08-02,Bronze,Worcester,MA,USA,Social Media,False
+437916,Mark,Jordan,,Male,mark.jordan832@yahoo.com,(479)338-9701x550,2025-01-17,Bronze,Dallas,TX,USA,Referral,False
+515691,James,Baird,18.0,Male,james.baird570@gmail.com,546-260-2416x13944,2025-02-07,Silver,Philadelphia,PA,USA,Social Media,False
+735147,James,Kennedy,50.0,Male,james.kennedy601@yahoo.com,524-280-9624x406,2025-07-02,Gold,Los Angeles,CA,USA,Social Media,False
+720530,Richard,Sandoval,62.0,Male,richard.sandoval576@yahoo.com,679-951-3305x319,2025-01-22,Bronze,Cambridge,MA,USA,Referral,True
+592240,Leah,Walters,62.0,Female,leah.walters687@yahoo.com,+1-967-480-5555,2024-09-20,Gold,Tucson,AZ,USA,Social Media,False
+206649,Julia,Newton,18.0,Female,julia.newton421@gmail.com,+1-726-346-0917,2024-08-08,Bronze,New York,NY,USA,Social Media,True
+681219,Christine,Mercer,51.0,Female,christine.mercer895@yahoo.com,845-877-0299x2959,2024-09-08,Bronze,Eugene,OR,USA,Social Media,True
+782906,Whitney,Johnson,48.0,Female,whitney.johnson964@yahoo.com,+1-373-868-2691,2025-01-16,Platinum,Scottsdale,AZ,USA,Direct,True
+766443,Colleen,Gay,31.0,Female,colleen.gay889@hotmail.com,322-768-6536x9455,2025-01-20,Bronze,Sacramento,CA,USA,Referral,True
+466449,Kathryn,Patel,36.0,Female,kathryn.patel992@gmail.com,(477)347-2264x0857,2025-01-12,Platinum,Miami,FL,USA,Social Media,True
+478937,James,Delgado,46.0,Male,james.delgado615@yahoo.com,(730)593-2998x19960,2025-08-28,Gold,Tucson,AZ,USA,Social Media,False
+509048,Carol,Garrett,18.0,Female,carol.garrett361@hotmail.com,950-796-8832,2025-03-23,Bronze,San Diego,CA,USA,Direct,False
+777854,Miranda,Allen,41.0,Female,miranda.allen592@yahoo.com,001-935-524-1039x773,2024-06-05,Gold,Philadelphia,PA,USA,Search,True
+798441,Rebecca,Kaufman,36.0,Female,rebecca.kaufman218@hotmail.com,+1-819-352-3710x0687,2024-08-12,Silver,Colorado Springs,CO,USA,Social Media,True
+187323,Richard,Rosario,22.0,Male,richard.rosario673@hotmail.com,+1-819-280-7704,2024-08-07,Bronze,Chicago,IL,USA,Email,True
+153957,Michael,Moran,44.0,Non-binary,michael.moran230@hotmail.com,+1-476-511-2491x2565,2024-06-03,Silver,Jacksonville,FL,USA,Social Media,False
+945544,Rebecca,Clark,42.0,Female,rebecca.clark359@gmail.com,217-473-4547x57494,2024-04-10,Gold,Houston,TX,USA,Email,True
+874829,Charles,Roberts,36.0,Male,charles.roberts118@gmail.com,(495)444-2947x742,2025-06-09,Bronze,San Diego,CA,USA,Referral,True
+200688,Lisa,Villarreal,61.0,Female,lisa.villarreal588@yahoo.com,+1-830-939-4290x4588,2025-08-03,Bronze,Cleveland,OH,USA,Search,True
+951659,Luke,Jackson,25.0,Male,luke.jackson827@yahoo.com,+1-929-885-8567x2872,2025-05-12,Gold,Boston,MA,USA,Email,False
+255238,Alexis,Arroyo,35.0,Female,alexis.arroyo866@yahoo.com,,2025-02-16,Gold,Raleigh,NC,USA,Email,True
+288886,Julia,Durham,24.0,Female,julia.durham624@gmail.com,001-383-235-0615x8148,2024-12-25,Bronze,Miami,FL,USA,Referral,True
+971644,Jeremy,Mills,40.0,Male,jeremy.mills30@gmail.com,523-337-2094x841,2025-01-24,Silver,Dallas,TX,USA,Email,True
+438441,Terrance,Anderson,41.0,Male,terrance.anderson280@yahoo.com,2337399771,2024-09-17,Silver,Boston,MA,USA,Direct,False
+986587,Richard,Jones,30.0,Male,richard.jones944@yahoo.com,971-673-1893,2024-08-05,Platinum,San Diego,CA,USA,Search,False
+858722,Keith,Perkins,46.0,Male,keith.perkins360@gmail.com,,2024-12-29,Silver,Springfield,IL,USA,Social Media,True
+639715,Jose,Bean,18.0,Male,jose.bean186@yahoo.com,283-754-8847x127,2024-08-19,Bronze,Atlanta,GA,USA,Search,True
+108184,Steven,Hicks,31.0,Male,steven.hicks580@yahoo.com,(421)564-1758,2025-07-04,Silver,Atlanta,GA,USA,Referral,True
+165217,Richard,Hines,20.0,Male,richard.hines411@gmail.com,484-558-7149x3925,2025-03-08,Gold,Cincinnati,OH,USA,Referral,False
+233544,Pamela,Floyd,43.0,Female,pamela.floyd146@gmail.com,+1-725-487-9643x474,2024-08-09,Silver,New York,NY,USA,Direct,False
+363197,Elizabeth,Acosta,18.0,Female,elizabeth.acosta649@hotmail.com,674-269-6606x06527,2024-04-03,Gold,Athens,GA,USA,Direct,True
+297490,Sabrina,Harris,51.0,Female,sabrina.harris94@hotmail.com,001-544-950-5665x883,2024-06-12,Bronze,Miami,FL,USA,Search,True
+286239,Scott,Rodriguez,39.0,Male,scott.rodriguez544@gmail.com,(657)897-0673,2024-09-17,Silver,Salem,OR,USA,Social Media,True
+419662,Brian,Brown,56.0,Non-binary,brian.brown386@yahoo.com,485-674-1721x562,2025-08-26,Silver,San Francisco,CA,USA,Referral,True
+827794,Kenneth,Hoffman,22.0,Male,kenneth.hoffman465@yahoo.com,459.384.8840,2024-08-16,Silver,Worcester,MA,USA,Search,True
+115041,Shelby,Lyons,25.0,Female,shelby.lyons162@hotmail.com,,2024-03-05,Bronze,Dallas,TX,USA,Search,True
+669983,Barbara,Jenkins,18.0,Female,barbara.jenkins320@yahoo.com,908.608.5096x0858,2025-02-16,Bronze,Raleigh,NC,USA,Email,True
+571051,Laura,Walters,,Female,laura.walters796@hotmail.com,,2024-09-16,Bronze,Tampa,FL,USA,Social Media,False
+814682,Nicole,Wang,26.0,Female,nicole.wang611@yahoo.com,277-825-1295x786,2025-01-07,Bronze,Cambridge,MA,USA,Email,False
+643853,Kenneth,Smith,33.0,Male,kenneth.smith905@yahoo.com,7039562439,2024-11-29,Silver,Columbus,OH,USA,Email,True
+415267,Martha,Gonzalez,18.0,Female,martha.gonzalez160@hotmail.com,(292)432-3421x089,2024-06-12,Gold,Portland,OR,USA,Referral,True
+569291,Kimberly,Blevins,46.0,Female,kimberly.blevins773@yahoo.com,,2024-08-19,Bronze,San Francisco,CA,USA,Email,False
+336331,Allison,Dillon,29.0,Female,allison.dillon51@hotmail.com,360.377.6336,2024-02-04,Bronze,Salem,OR,USA,Email,False
+117415,Tracy,Hunter,34.0,Female,tracy.hunter279@hotmail.com,,2025-02-10,Gold,Houston,TX,USA,Email,False
+185674,John,Hicks,38.0,Male,john.hicks678@yahoo.com,3068661554,2025-03-20,Platinum,Worcester,MA,USA,Email,True
+269434,Tracy,Pearson,39.0,Male,tracy.pearson498@gmail.com,001-216-470-4502x329,2024-04-08,Bronze,Ann Arbor,MI,USA,Direct,True
+534988,April,Taylor,37.0,Non-binary,april.taylor425@yahoo.com,001-400-493-4596x26228,2024-12-03,Platinum,Jacksonville,FL,USA,Search,True
+250628,Holly,Buckley,44.0,Female,holly.buckley221@gmail.com,2732465495,2025-04-22,Silver,Dallas,TX,USA,Referral,False
+475610,Erin,Oneal,36.0,Female,erin.oneal117@gmail.com,001-526-308-6982x2105,2025-10-08,Silver,Grand Rapids,MI,USA,Search,True
+729076,Jennifer,Jones,46.0,Female,jennifer.jones441@yahoo.com,768.772.9047x742,2024-11-22,Gold,Rochester,NY,USA,Search,False
+908554,Tyler,Barnett,23.0,Male,tyler.barnett291@gmail.com,,2024-06-20,Bronze,Atlanta,GA,USA,Social Media,True
+558951,Danielle,King,21.0,Female,danielle.king540@hotmail.com,+1-245-879-8894x25652,2025-01-18,Gold,San Antonio,TX,USA,Email,False
+641870,Lynn,Bauer,43.0,Female,lynn.bauer47@gmail.com,9209326509,2024-10-15,Gold,Dallas,TX,USA,Search,True
+656284,Scott,Lopez,42.0,Male,scott.lopez405@hotmail.com,(473)679-4871x4855,2024-08-22,Silver,Chicago,IL,USA,Social Media,True
+439402,Glenda,Wiggins,18.0,Female,glenda.wiggins57@hotmail.com,515.984.1560x821,2024-07-13,Bronze,Grand Rapids,MI,USA,Social Media,True
+755168,Sandra,Martinez,53.0,Female,sandra.martinez210@hotmail.com,425-547-6818x2683,2025-05-21,Bronze,Chicago,IL,USA,Social Media,False
+188261,Patty,Gonzalez,35.0,Female,patty.gonzalez969@hotmail.com,,2025-01-02,Bronze,Tucson,AZ,USA,Search,False
+933577,Erik,Becker,24.0,Non-binary,erik.becker786@hotmail.com,+1-893-928-9634x0646,2024-01-09,Platinum,Columbus,OH,USA,Email,True
+911910,Julie,Taylor,42.0,Female,julie.taylor783@yahoo.com,2148843991,2024-06-16,Bronze,Seattle,WA,USA,Referral,True
+686314,Brenda,Castillo,30.0,Female,brenda.castillo297@gmail.com,001-836-326-6933x51342,2025-09-25,Platinum,San Diego,CA,USA,Social Media,False
+681665,Nicholas,Willis,24.0,Male,nicholas.willis123@hotmail.com,(637)324-5018,2024-11-24,Bronze,Rochester,NY,USA,Email,True
+279656,Patricia,George,21.0,Female,patricia.george510@gmail.com,+1-374-918-9721x54064,2024-05-16,Bronze,Houston,TX,USA,Email,False
+638888,Ronald,Jackson,57.0,Non-binary,ronald.jackson441@hotmail.com,001-874-838-1199x537,2025-09-17,Silver,Athens,GA,USA,Referral,False
+576412,Amy,Garcia,49.0,Female,,001-944-585-6451x0173,2024-10-05,Bronze,Philadelphia,PA,USA,Social Media,True
+967104,Kevin,Wade,18.0,Male,kevin.wade546@gmail.com,001-378-399-6986x09191,2024-05-05,Bronze,San Antonio,TX,USA,Email,True
+501401,Tracy,Allen,48.0,Female,tracy.allen236@hotmail.com,+1-596-460-5779x80660,2024-11-17,Silver,Allentown,PA,USA,Search,False
+285887,Alexander,Bautista,43.0,Male,alexander.bautista74@gmail.com,960-674-5553x4705,2025-05-05,Bronze,Rochester,NY,USA,Email,True
+927969,Patricia,Martin,46.0,Female,patricia.martin883@hotmail.com,001-685-365-2715x59835,2025-02-11,Silver,Worcester,MA,USA,Email,True
+896619,Thomas,Davis,44.0,Male,thomas.davis44@yahoo.com,797-226-3475x57522,2024-11-17,Silver,Durham,NC,USA,Referral,True
+646841,Brian,Perkins,35.0,Male,brian.perkins20@hotmail.com,001-884-688-2691x311,2025-04-05,Bronze,Cleveland,OH,USA,Email,True
+834179,Brianna,Peterson,36.0,Female,brianna.peterson944@yahoo.com,(426)614-9915x3703,2025-01-18,Platinum,Jacksonville,FL,USA,Search,False
+995308,Alexander,Walker,27.0,Male,alexander.walker883@hotmail.com,233.973.2043,2024-05-13,Bronze,Boston,MA,USA,Email,True
+430066,Sara,Perry,34.0,Female,sara.perry590@hotmail.com,001-636-728-9696,2024-07-17,Gold,Cleveland,OH,USA,Social Media,True
+515088,Regina,Baker,18.0,Female,regina.baker588@yahoo.com,,2024-03-10,Bronze,San Antonio,TX,USA,Referral,False
+926311,Kimberly,Garcia,42.0,Female,kimberly.garcia727@hotmail.com,,2025-09-14,Silver,San Antonio,TX,USA,Email,True
+825397,Kevin,Brown,28.0,Male,kevin.brown297@gmail.com,7873805721,2024-11-04,Silver,San Antonio,TX,USA,Email,False
+582951,Troy,Hill,40.0,Male,troy.hill415@yahoo.com,001-509-876-2637x4845,2025-03-17,Bronze,Miami,FL,USA,Search,False
+519553,Brianna,Ryan,39.0,Female,brianna.ryan990@hotmail.com,001-350-890-5911,2025-08-03,Silver,Seattle,WA,USA,Email,True
+248116,Nicholas,Oconnor,55.0,Male,nicholas.oconnor176@gmail.com,+1-822-807-1511x696,2024-08-19,Bronze,Spokane,WA,USA,Email,True
+471843,Melissa,Taylor,39.0,Female,melissa.taylor472@yahoo.com,(414)652-6471,2024-12-28,Silver,Athens,GA,USA,Email,False
+921877,Jennifer,Perez,33.0,Female,jennifer.perez942@hotmail.com,+1-315-471-8409x0805,2024-09-10,Silver,Scottsdale,AZ,USA,Social Media,True
+280698,Aaron,Galloway,46.0,Male,,4565409951,2024-05-05,Gold,Raleigh,NC,USA,Direct,True
+269842,Mallory,Jimenez,34.0,Female,mallory.jimenez865@hotmail.com,,2024-05-15,Bronze,Jacksonville,FL,USA,Email,True
+802037,Robert,Wallace,25.0,Male,robert.wallace250@hotmail.com,4813441529,2024-06-27,Bronze,Charlotte,NC,USA,Email,True
+976721,Kathleen,Munoz,48.0,Female,kathleen.munoz604@hotmail.com,578-867-1815x35237,2024-07-26,Bronze,Sacramento,CA,USA,Referral,True
+743841,Andrew,Brown,36.0,Male,andrew.brown537@yahoo.com,,2024-07-24,Bronze,Boulder,CO,USA,Social Media,False
+118114,Brandy,Gallagher,39.0,Female,brandy.gallagher406@yahoo.com,+1-866-666-1707x1587,2025-04-09,Silver,Los Angeles,CA,USA,Email,True
+721397,Kathleen,Hartman,39.0,Female,kathleen.hartman764@yahoo.com,001-208-203-1499x82508,2024-07-01,Gold,Cleveland,OH,USA,Social Media,True
+413127,Tracy,Cruz,46.0,Female,tracy.cruz227@yahoo.com,+1-506-388-2850,2024-06-05,Silver,Rochester,NY,USA,Email,True
+661037,Joyce,Lopez,44.0,Female,joyce.lopez798@gmail.com,001-351-637-3990x063,2024-11-08,Bronze,Spokane,WA,USA,Social Media,True
+668562,Abigail,Allen,39.0,Female,abigail.allen79@yahoo.com,(563)656-0229,2024-10-30,Bronze,San Francisco,CA,USA,Search,True
+567751,Stephen,Henderson,30.0,Male,stephen.henderson649@hotmail.com,001-643-246-0666x437,2025-07-13,Bronze,Scottsdale,AZ,USA,Social Media,True
+238696,Mark,Foster,63.0,Male,mark.foster544@hotmail.com,001-672-831-1127x12852,2024-10-26,Silver,Charlotte,NC,USA,Direct,True
+457298,Dominique,Mitchell,53.0,Female,dominique.mitchell928@hotmail.com,911-963-1873x280,2024-06-16,Bronze,Orlando,FL,USA,Email,True
+723964,Brian,Perez,32.0,Male,brian.perez360@yahoo.com,(911)236-9572,2024-07-14,Gold,Pittsburgh,PA,USA,Referral,True
+181525,Mary,Gordon,53.0,Female,mary.gordon242@gmail.com,001-835-809-0254x25730,2025-09-27,Bronze,Orlando,FL,USA,Referral,False
+599235,Christian,Carter,29.0,Male,,623.457.0713,2024-12-01,Bronze,Philadelphia,PA,USA,Email,True
+575340,Charles,Brandt,37.0,Male,charles.brandt203@gmail.com,716-288-0925,2024-10-31,Gold,Tampa,FL,USA,Social Media,True
+362674,Briana,Garcia,49.0,Female,briana.garcia617@gmail.com,2603906913,2025-05-02,Silver,Austin,TX,USA,Email,False
+540073,Alicia,Holloway,31.0,Female,alicia.holloway779@yahoo.com,001-664-796-7379,2025-03-06,Bronze,Atlanta,GA,USA,Social Media,True
+997877,Veronica,Fields,34.0,Female,veronica.fields78@yahoo.com,(678)453-2426,2025-07-05,Bronze,Tacoma,WA,USA,Direct,True
+238541,Jacob,Smith,41.0,Male,jacob.smith975@yahoo.com,(507)868-3625,2025-01-14,Bronze,Buffalo,NY,USA,Social Media,False
+154379,Jason,Butler,24.0,Male,jason.butler506@hotmail.com,576.575.5562x833,2024-09-04,Bronze,Colorado Springs,CO,USA,Email,False
+512762,Keith,Gould,37.0,Male,keith.gould773@hotmail.com,+1-995-678-6543x62718,2024-10-20,Bronze,Pittsburgh,PA,USA,Direct,True
+236621,Summer,Sosa,22.0,Female,,(803)435-8268x62703,2024-06-27,Platinum,Allentown,PA,USA,Search,True
+401192,Denise,Reese,25.0,Female,denise.reese698@hotmail.com,001-226-393-2657x32759,2024-06-02,Bronze,San Antonio,TX,USA,Social Media,True
+329274,Richard,Miller,51.0,Male,richard.miller659@gmail.com,3517553234,2024-11-16,Platinum,Tacoma,WA,USA,Search,True
+632607,Marcus,Stewart,36.0,Male,marcus.stewart885@yahoo.com,852.444.1822x2618,2025-08-02,Silver,Rochester,NY,USA,Referral,True
+169139,Kristina,Fuller,,Female,kristina.fuller155@hotmail.com,431-227-1026x767,2025-02-07,Gold,Tampa,FL,USA,Search,True
+673087,Laurie,Huerta,44.0,Female,laurie.huerta70@yahoo.com,399.427.0795x515,2025-07-12,Bronze,Springfield,IL,USA,Social Media,False
+917055,Dennis,Evans,33.0,Non-binary,dennis.evans453@yahoo.com,(213)854-1597,2025-09-16,Bronze,Raleigh,NC,USA,Direct,True
+284199,Wendy,Diaz,29.0,Female,wendy.diaz816@yahoo.com,584.680.7520,2025-08-03,Bronze,San Diego,CA,USA,Social Media,True
+979391,Deborah,Ferrell,40.0,Female,deborah.ferrell606@yahoo.com,2472158029,2024-03-17,Silver,Rochester,NY,USA,Referral,True
+223771,Elizabeth,Gonzalez,33.0,Female,elizabeth.gonzalez361@yahoo.com,(660)546-5586x6525,2025-05-06,Bronze,Chicago,IL,USA,Search,True
+181268,Katherine,Adams,46.0,Female,katherine.adams318@yahoo.com,+1-515-381-0213x12512,2025-01-20,Platinum,Houston,TX,USA,Search,True
+150447,Scott,Smith,24.0,Male,scott.smith463@gmail.com,001-559-312-9751x9102,2024-09-13,Platinum,Tucson,AZ,USA,Email,True
+666844,Charlene,Higgins,40.0,Female,charlene.higgins59@gmail.com,5639301658,2024-04-06,Silver,Houston,TX,USA,Search,True
+742559,Robert,Erickson,55.0,Male,robert.erickson852@yahoo.com,+1-527-649-0728x012,2025-01-06,Platinum,Springfield,IL,USA,Email,True
+308684,Charles,Weaver,31.0,Male,charles.weaver79@gmail.com,001-811-632-5326x949,2025-01-22,Bronze,Spokane,WA,USA,Search,True
+651011,Daniel,King,42.0,Male,,001-838-304-4210x1750,2024-09-24,Bronze,Los Angeles,CA,USA,Social Media,False
+521813,Megan,Roach,29.0,Female,megan.roach474@yahoo.com,7159959194,2025-06-15,Bronze,Albany,NY,USA,Search,True
+319615,Hunter,Shepherd,34.0,Male,hunter.shepherd461@yahoo.com,947.758.3392x0567,2025-01-15,Silver,Miami,FL,USA,Email,False
+373772,Tammy,Mathis,43.0,Female,tammy.mathis330@yahoo.com,877.722.6602x562,2025-02-11,Silver,Orlando,FL,USA,Referral,True
+936730,Alexis,Moody,41.0,Female,alexis.moody488@hotmail.com,(429)623-1067,2024-04-15,Gold,Scottsdale,AZ,USA,Direct,True
+505710,Gail,Smith,48.0,Female,gail.smith155@yahoo.com,(848)843-3797,2024-03-16,Bronze,Allentown,PA,USA,Email,True
+999108,Travis,Moore,36.0,Male,travis.moore462@hotmail.com,5519157942,2025-08-17,Bronze,Miami,FL,USA,Referral,True
+965004,Robert,Butler,59.0,Male,robert.butler831@gmail.com,725-449-6919x2845,2024-12-19,Silver,Chicago,IL,USA,Social Media,False
+234505,Jacob,Waller,35.0,Male,jacob.waller732@gmail.com,9756633535,2024-07-02,Bronze,San Diego,CA,USA,Email,True
+124317,Justin,Ray,25.0,Male,justin.ray517@yahoo.com,001-932-259-3993x379,2025-04-14,Bronze,Columbus,OH,USA,Referral,True
+243964,Erik,Gilmore,30.0,Male,erik.gilmore177@yahoo.com,001-629-451-8779x41763,2024-05-04,Bronze,Cincinnati,OH,USA,Email,False
+479646,Jack,Strickland,45.0,Male,jack.strickland254@yahoo.com,630.755.9782,2025-04-02,Gold,Los Angeles,CA,USA,Search,False
+374221,John,Edwards,44.0,Male,john.edwards449@hotmail.com,639.591.4038,2025-08-09,Silver,Tacoma,WA,USA,Email,True
+551566,Rachel,Henderson,61.0,Female,rachel.henderson537@gmail.com,843-424-0061x5727,2024-11-30,Bronze,Raleigh,NC,USA,Direct,False
+593153,Kirk,Blake,45.0,Male,kirk.blake625@gmail.com,374-239-7429x250,2025-02-07,Bronze,Allentown,PA,USA,Email,True
+143041,Sharon,Tran,42.0,Female,sharon.tran373@yahoo.com,(756)280-6562,2025-02-25,Bronze,San Francisco,CA,USA,Referral,True
+741294,Mason,Nguyen,44.0,Male,mason.nguyen940@hotmail.com,3804271122,2024-09-27,Silver,San Diego,CA,USA,Search,True
+309098,Teresa,Young,34.0,Female,teresa.young397@yahoo.com,(851)465-1768x086,2024-10-02,Platinum,San Diego,CA,USA,Social Media,False
+187774,Joshua,Davis,39.0,Male,joshua.davis794@gmail.com,221.243.3080x037,2025-01-18,Bronze,San Antonio,TX,USA,Email,True
+462568,Daniel,Hall,43.0,Male,daniel.hall696@gmail.com,(985)256-6084,2025-02-12,Bronze,Tucson,AZ,USA,Email,False
+993866,Mckenzie,Terry,34.0,Female,mckenzie.terry54@hotmail.com,203-790-3397,2024-12-27,Bronze,Grand Rapids,MI,USA,Search,True
+754794,Mia,Perkins,44.0,Female,mia.perkins68@yahoo.com,426.532.8094x48586,2024-04-25,Bronze,Dallas,TX,USA,Direct,True
+884439,Paul,Scott,40.0,Male,paul.scott97@gmail.com,246-814-7079x86321,2024-06-18,Silver,Boulder,CO,USA,Search,False
+900550,Robert,Newton,44.0,Male,robert.newton291@gmail.com,594.639.4570,2025-03-27,Bronze,San Antonio,TX,USA,Social Media,False
+282580,Daniel,Johnson,54.0,Male,daniel.johnson742@gmail.com,425.937.6576,2024-07-31,Bronze,Dallas,TX,USA,Social Media,True
+453360,Karen,Carlson,27.0,Female,karen.carlson342@hotmail.com,619.210.0900,2024-07-25,Silver,Orlando,FL,USA,Direct,False
+347245,Eric,James,34.0,Male,eric.james597@hotmail.com,(610)853-3651,2024-12-19,Bronze,Los Angeles,CA,USA,Search,True
+486914,Matthew,Evans,47.0,Male,matthew.evans939@gmail.com,,2025-04-02,Silver,Austin,TX,USA,Referral,True
+835164,Brian,Hardy,21.0,Male,brian.hardy318@yahoo.com,001-584-340-9712,2025-03-16,Silver,Spokane,WA,USA,Email,True
+104505,James,Bennett,38.0,Male,james.bennett716@gmail.com,667.262.0901x4473,2025-04-15,Bronze,Cambridge,MA,USA,Social Media,True
+185777,Megan,Richmond,59.0,Female,megan.richmond133@gmail.com,270.609.6873,2024-12-25,Bronze,Jacksonville,FL,USA,Search,True
+760624,Jackson,George,51.0,Male,jackson.george726@yahoo.com,882.755.8825x5629,2024-11-27,Silver,Durham,NC,USA,Direct,False
+178518,Taylor,Reed,,Non-binary,taylor.reed318@yahoo.com,(478)765-6194,2024-09-27,Bronze,Columbus,OH,USA,Social Media,True
+311484,Tim,Brewer,38.0,Male,tim.brewer659@yahoo.com,001-882-305-8295x82923,2024-06-03,Bronze,San Antonio,TX,USA,Social Media,False
+777395,Samantha,Gilmore,,Female,samantha.gilmore833@hotmail.com,+1-508-719-0482,2024-10-11,Silver,Spokane,WA,USA,Referral,False
+622930,Katherine,Nguyen,31.0,Female,katherine.nguyen687@yahoo.com,+1-568-963-9561,2025-08-03,Bronze,Orlando,FL,USA,Referral,True
+209036,Christopher,Benson,28.0,Male,christopher.benson849@gmail.com,001-308-517-2143x643,2024-09-09,Gold,Durham,NC,USA,Referral,True
+378603,Andrew,Johnson,39.0,Non-binary,andrew.johnson662@gmail.com,821.214.7165,2025-06-28,Gold,Houston,TX,USA,Search,False
+181571,Melissa,Evans,48.0,Female,melissa.evans434@yahoo.com,(934)769-9799x070,2025-02-03,Gold,Scottsdale,AZ,USA,Referral,True
+919830,Gregory,Scott,18.0,Male,gregory.scott19@yahoo.com,(981)669-9570x6071,2025-06-26,Silver,Dallas,TX,USA,Email,True
+307101,Kimberly,Miller,52.0,Female,kimberly.miller317@hotmail.com,001-917-565-3970x548,2024-09-05,Bronze,Spokane,WA,USA,Email,False
+725724,Louis,Davis,62.0,Male,louis.davis974@hotmail.com,(690)887-1827,2025-05-08,Platinum,Boston,MA,USA,Email,True
+113118,Robert,Nichols,47.0,Male,robert.nichols350@hotmail.com,,2025-05-24,Bronze,Buffalo,NY,USA,Direct,True
+915204,Donna,Rivera,47.0,Female,donna.rivera197@gmail.com,+1-521-737-7306x26042,2025-07-16,Silver,Sacramento,CA,USA,Social Media,False
+693034,Sean,Silva,27.0,Male,sean.silva141@yahoo.com,271.912.2299,2024-05-21,Bronze,Philadelphia,PA,USA,Email,False
+772806,Kathleen,Bauer,45.0,Female,kathleen.bauer80@yahoo.com,8858816704,2024-04-04,Gold,Denver,CO,USA,Search,True
+125648,Austin,Miller,34.0,Male,austin.miller865@hotmail.com,(576)983-2102x192,2024-09-20,Silver,Dallas,TX,USA,Social Media,False
+203106,Mary,Gardner,,Female,mary.gardner520@hotmail.com,671-429-6180x332,2024-07-26,Bronze,Charlotte,NC,USA,Email,True
+623457,Nicole,Myers,38.0,Female,nicole.myers678@yahoo.com,6804184980,2024-04-12,Bronze,New York,NY,USA,Search,True
+525940,Emma,Sanchez,29.0,Female,emma.sanchez898@yahoo.com,337.477.3126,2024-04-09,Silver,Tucson,AZ,USA,Social Media,True
+506364,Mary,Hodge,22.0,Female,mary.hodge135@gmail.com,001-817-281-9236x53460,2025-03-12,Silver,Tacoma,WA,USA,Email,True
+516800,Seth,Norman,20.0,Male,seth.norman386@gmail.com,856.479.3279,2024-05-05,Platinum,Naperville,IL,USA,Social Media,True
+525154,David,Boyd,49.0,Male,david.boyd167@yahoo.com,001-616-990-6181x20546,2025-02-03,Bronze,Austin,TX,USA,Social Media,True
+654605,Matthew,Hatfield,38.0,Male,matthew.hatfield852@yahoo.com,489-954-7876x9899,2024-12-26,Platinum,Austin,TX,USA,Social Media,True
+236747,Gabrielle,Holt,23.0,Female,gabrielle.holt739@yahoo.com,+1-589-714-4449,2024-10-18,Silver,San Francisco,CA,USA,Email,True
+247820,Timothy,Nguyen,34.0,Male,timothy.nguyen45@gmail.com,001-635-843-5864,2024-06-26,Silver,Raleigh,NC,USA,Email,False
+745835,Mckenzie,Lopez,41.0,Female,mckenzie.lopez374@hotmail.com,(443)358-8537,2025-05-12,Bronze,Sacramento,CA,USA,Search,False
+235881,Misty,Walter,36.0,Female,misty.walter737@hotmail.com,939.652.7536,2025-04-08,Silver,Cambridge,MA,USA,Email,True
+819608,Tara,Stevens,28.0,Female,tara.stevens993@yahoo.com,(249)314-1686,2025-06-18,Silver,Charlotte,NC,USA,Search,True
+148651,Colin,Villa,47.0,Male,colin.villa626@yahoo.com,389.948.9634x067,2024-12-03,Bronze,Eugene,OR,USA,Social Media,True
+234581,Jeffrey,Edwards,38.0,Male,jeffrey.edwards771@gmail.com,(615)400-1418,2024-07-15,Gold,Tampa,FL,USA,Social Media,True
+657736,Rachel,Frost,23.0,Female,rachel.frost240@hotmail.com,(530)690-0159x44633,2024-12-24,Bronze,Jacksonville,FL,USA,Referral,False
+565158,Timothy,Gomez,50.0,Male,timothy.gomez245@gmail.com,(208)495-3263,2024-11-24,Bronze,Tacoma,WA,USA,Referral,True
+604586,Brandon,Yang,53.0,Male,brandon.yang989@yahoo.com,311.236.3379x2234,2025-02-19,Gold,Pittsburgh,PA,USA,Email,False
+810825,David,Parker,34.0,Male,david.parker926@hotmail.com,+1-867-233-1167x726,2024-02-19,Gold,Cleveland,OH,USA,Referral,True
+901118,Joshua,Nelson,36.0,Male,joshua.nelson377@hotmail.com,768.455.0789x6793,2024-09-16,Gold,Phoenix,AZ,USA,Email,False
+250854,Michael,Burke,59.0,Male,michael.burke473@hotmail.com,+1-962-263-3556x43436,2025-03-20,Silver,San Antonio,TX,USA,Social Media,True
+320999,Michael,Elliott,40.0,Male,michael.elliott797@hotmail.com,001-917-806-9556x076,2025-04-12,Bronze,Ann Arbor,MI,USA,Referral,False
+421397,Brandon,Scott,18.0,Male,brandon.scott515@gmail.com,,2024-10-21,Bronze,Albany,NY,USA,Search,False
+786393,Holly,Hodges,32.0,Female,holly.hodges429@gmail.com,001-621-498-0418x472,2024-06-22,Bronze,Athens,GA,USA,Referral,False
+199805,Scott,Ramirez,,Male,scott.ramirez837@gmail.com,264.428.1319,2025-09-05,Bronze,Columbus,OH,USA,Email,True
+414532,Dwayne,Harrison,47.0,Male,dwayne.harrison821@yahoo.com,(430)339-1114,2024-09-27,Platinum,San Francisco,CA,USA,Email,True
