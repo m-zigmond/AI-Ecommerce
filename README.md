@@ -1,5 +1,6 @@
 <h1>E-Commerce Sales and Customer Analytics</h1>
 <p>This one's a little different from my other projects, instead of starting with a dataset someone else built, I generated my own. I built a synthetic two-table e-commerce dataset, customers and orders, with realistic seasonality, repeat customers, and correlated pricing, then used SQL to answer the kind of questions a product manager would actually ask about it. I also used AI heavily throughout this project, for generating the data itself, drafting the queries, and debugging a real problem that came up along the way, and I wanted to be upfront about that instead of pretending I did it all unassisted.</p>
+<p>Dashboard: <a href='https://public.tableau.com/app/profile/matt.zigmond/viz/E-CommerceSalesandCustomerAnalysis_17865951933960/E-commerceSalesCustomerAnalysis?publish=yes'> Tableau Public</a></p>
 <h2>The question</h2>
 <p>If I were handing this data to a product manager, what would they actually want to know? I settled on five questions:</p>
 <ul>
